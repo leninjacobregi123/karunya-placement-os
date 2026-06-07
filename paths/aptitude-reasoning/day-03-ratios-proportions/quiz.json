@@ -1,0 +1,61 @@
+{
+  "day": 3,
+  "topic": "Ratios and Proportions",
+  "questions": [
+    {
+      "question": "The ratio of boys to girls in a school is 7:5. If there are 240 girls, how many students are there in total?",
+      "choices": [
+        "336",
+        "576",
+        "432",
+        "480"
+      ],
+      "answer": 1,
+      "explanation": "Girls = 5 parts = 240, so 1 part = 48. Boys = 7 × 48 = 336. Total = 336 + 240 = 576. Or: total parts = 12, total = 12 × 48 = 576."
+    },
+    {
+      "question": "If a:b = 3:4 and b:c = 8:9, what is a:b:c?",
+      "choices": [
+        "3:4:9",
+        "6:8:9",
+        "12:16:18",
+        "24:32:36"
+      ],
+      "answer": 1,
+      "explanation": "Common term is b. Make b the same: multiply 3:4 by 2 to get 6:8. Keep 8:9. So a:b:c = 6:8:9."
+    },
+    {
+      "question": "A recipe requires sugar and flour in the ratio 2:5. If you use 750g of flour, how much sugar do you need?",
+      "choices": [
+        "250g",
+        "300g",
+        "150g",
+        "200g"
+      ],
+      "answer": 1,
+      "explanation": "Sugar:Flour = 2:5. If flour (5 parts) = 750g, then 1 part = 150g. Sugar (2 parts) = 2 × 150 = 300g."
+    },
+    {
+      "question": "What is the mean proportion between 4 and 36?",
+      "choices": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "Mean proportion = sqrt(4 × 36) = sqrt(144) = 12. Check: 4:12 = 12:36, both simplify to 1:3 = 1:3."
+    },
+    {
+      "question": "Rs 1,500 is shared between A and B in the ratio 7:8. How much does A receive?",
+      "choices": [
+        "Rs 800",
+        "Rs 1,000",
+        "Rs 700",
+        "Rs 900"
+      ],
+      "answer": 2,
+      "explanation": "Total parts = 7 + 8 = 15. Each part = 1500/15 = Rs 100. A's share = 7 × 100 = Rs 700."
+    }
+  ]
+}

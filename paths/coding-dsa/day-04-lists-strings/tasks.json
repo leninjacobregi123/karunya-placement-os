@@ -1,0 +1,20 @@
+{
+  "day": 4,
+  "topic": "Lists and Strings",
+  "slug": "lists-strings",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "Write: 'Given a list of student names, return only those that start with A.' Use a for loop and if condition.",
+  "read": "modules/coding-foundations/lists-strings/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Word frequency analyzer",
+      "file": "code/starter.py",
+      "signature": "word_frequency(text)"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

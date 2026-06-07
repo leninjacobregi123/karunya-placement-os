@@ -1,0 +1,24 @@
+{
+  "name": "KPOS Self-Contained Question Bank",
+  "version": "1.0.0",
+  "description": "Original, self-contained practice questions for Sprint 1 of Karunya Placement OS",
+  "coding_dsa_count": 240,
+  "aptitude_reasoning_count": 360,
+  "total_count": 600,
+  "coding_dsa_days": 30,
+  "aptitude_reasoning_days": 30,
+  "source_policy": "All questions are original. No external problem statements are copied.",
+  "files": {
+    "coding_dsa": {
+      "full_bank": "question-bank/self-contained/coding-dsa/coding-dsa-bank.jsonl",
+      "by_day_dir": "question-bank/self-contained/coding-dsa/by-day",
+      "by_topic_dir": "question-bank/self-contained/coding-dsa/by-topic"
+    },
+    "aptitude_reasoning": {
+      "full_bank": "question-bank/self-contained/aptitude-reasoning/aptitude-reasoning-bank.jsonl",
+      "by_day_dir": "question-bank/self-contained/aptitude-reasoning/by-day",
+      "by_topic_dir": "question-bank/self-contained/aptitude-reasoning/by-topic"
+    }
+  },
+  "schema_version": "1.0"
+}

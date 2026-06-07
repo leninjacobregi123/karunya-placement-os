@@ -1,0 +1,10 @@
+{
+  "level": 2,
+  "hint": "Think about the core concept. What is the key principle or formula that applies to this type of problem?",
+  "when_to_use": "Use when you understand the concept but need approach guidance",
+  "socratic_questions": [
+    "What do you already know that might help?",
+    "Which part of this problem is confusing?",
+    "Can you break it into smaller steps?"
+  ]
+}

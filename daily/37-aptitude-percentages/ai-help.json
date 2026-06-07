@@ -1,0 +1,25 @@
+{
+  "when_to_help": [
+    "Difficulty simplifying ratios",
+    "Confusion about proportions"
+  ],
+  "key_concepts": [
+    {
+      "concept": "Ratio simplification",
+      "explanation": "Divide both terms by their GCD"
+    },
+    {
+      "concept": "Proportion",
+      "explanation": "a:b::c:d means ad = bc"
+    },
+    {
+      "concept": "Share calculation",
+      "explanation": "Each share = (ratio part / total ratio) * actual"
+    }
+  ],
+  "pro_tips": [
+    "Always simplify ratios first",
+    "Draw boxes for shares",
+    "Verify by checking cross product"
+  ]
+}

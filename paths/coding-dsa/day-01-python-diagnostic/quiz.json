@@ -1,0 +1,61 @@
+{
+  "day": 1,
+  "topic": "Python Diagnostic",
+  "questions": [
+    {
+      "question": "Which statement declares a variable in Python?",
+      "choices": [
+        "int x = 5",
+        "x = 5",
+        "var x = 5",
+        "let x = 5"
+      ],
+      "answer": 1,
+      "explanation": "Python uses dynamic typing. x = 5 declares and assigns without a type keyword."
+    },
+    {
+      "question": "What does range(3) produce?",
+      "choices": [
+        "[1, 2, 3]",
+        "[0, 1, 2]",
+        "[0, 1, 2, 3]",
+        "1, 2, 3, 4"
+      ],
+      "answer": 1,
+      "explanation": "range(3) produces 0, 1, 2 - starting at 0, stopping before 3."
+    },
+    {
+      "question": "Which is the correct way to check if x is greater than 0?",
+      "choices": [
+        "if x > 0:",
+        "if x = 0:",
+        "if x >> 0:",
+        "when x > 0:"
+      ],
+      "answer": 0,
+      "explanation": "if x > 0: is the correct conditional syntax in Python."
+    },
+    {
+      "question": "What does len([1, 2, 3]) return?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "len() returns the number of elements. A list of 3 elements has length 3."
+    },
+    {
+      "question": "Which loop runs exactly 5 times?",
+      "choices": [
+        "for i in range(6):",
+        "for i in range(5):",
+        "while True:",
+        "for i in 5:"
+      ],
+      "answer": 1,
+      "explanation": "range(5) produces 0,1,2,3,4 - that is 5 iterations."
+    }
+  ]
+}

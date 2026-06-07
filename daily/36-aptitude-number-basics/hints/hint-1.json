@@ -1,0 +1,10 @@
+{
+  "level": 1,
+  "hint": "Numbers belong to different families based on their properties. Start by simplifying each number before classifying it.",
+  "socratic_questions": [
+    "Which family does 0 belong to: Natural, Whole, or Integer?",
+    "Can a square root always be irrational?",
+    "What makes a number rational versus irrational?"
+  ],
+  "when_to_use": "Use when you understand the concept but need guidance on approach"
+}

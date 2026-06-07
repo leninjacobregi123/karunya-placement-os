@@ -1,0 +1,31 @@
+{
+  "title": "String Formatting",
+  "day": "9-string-formatting",
+  "exercises": [
+    {
+      "num": 1,
+      "answer": "Exercise 1 solution for String Formatting",
+      "concept": "Basic understanding"
+    },
+    {
+      "num": 2,
+      "answer": "Exercise 2 solution for String Formatting",
+      "concept": "Application"
+    },
+    {
+      "num": 3,
+      "answer": "Exercise 3 solution for String Formatting",
+      "concept": "Practice"
+    },
+    {
+      "num": 4,
+      "answer": "Exercise 4 solution for String Formatting",
+      "concept": "Challenge"
+    },
+    {
+      "num": 5,
+      "answer": "Exercise 5 solution for String Formatting",
+      "concept": "Summary"
+    }
+  ]
+}

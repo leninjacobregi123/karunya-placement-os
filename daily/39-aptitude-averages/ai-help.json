@@ -1,0 +1,26 @@
+{
+  "when_to_help": [
+    "Student confuses Total with Average",
+    "Difficulty with average change problems (before/after)",
+    "Struggles with reverse average calculations"
+  ],
+  "key_concepts": [
+    {
+      "concept": "Average formula",
+      "explanation": "Average = Sum of all values ÷ Count of values. Always start here."
+    },
+    {
+      "concept": "Reversibility",
+      "explanation": "If Average = Sum/Count, then Sum = Average × Count. This is the key to solving reverse problems."
+    },
+    {
+      "concept": "Change in average",
+      "explanation": "When adding or removing values, the new total minus old total reveals what was added or removed."
+    }
+  ],
+  "pro_tips": [
+    "Always write 'Sum = Average × Count' first in every problem",
+    "For an evenly spaced sequence (like 1 to 100): Average = (first + last) ÷ 2",
+    "Check your answer: if average is 36 for five numbers (12 to 60), does that make sense?"
+  ]
+}

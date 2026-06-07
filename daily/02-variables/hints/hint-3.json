@@ -1,0 +1,9 @@
+{
+  "level": 3,
+  "hint": "Type conversion only works when the source value matches what the target type expects.",
+  "socratic_questions": [
+    "What happens if you try float('abc')?",
+    "Can you convert True to an int?",
+    "How would you print both the value and its type?"
+  ]
+}

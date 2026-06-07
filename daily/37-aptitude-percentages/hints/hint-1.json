@@ -1,0 +1,10 @@
+{
+  "level": 1,
+  "hint": "To find a percentage of a number, first convert the percentage to a fraction (divide by 100), then multiply by the given number.",
+  "when_to_use": "Use when you understand the concept but need guidance on approach",
+  "socratic_questions": [
+    "What does '20% of 250' actually mean?",
+    "How do you turn 20 into something you can multiply directly?",
+    "For the reverse case: if you know the final amount and the increase percentage, what percentage does the original represent?"
+  ]
+}

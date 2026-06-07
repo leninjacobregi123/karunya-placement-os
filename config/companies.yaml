@@ -1,0 +1,21 @@
+# Company reference data
+# Populated during pilot based on target employers
+companies:
+  - name: TCS
+    focus: aptitude_reasoning
+    difficulty: easy
+  - name: Infosys
+    focus: coding_dsa
+    difficulty: easy
+  - name: Wipro
+    focus: full
+    difficulty: easy
+  - name: Accenture
+    focus: full
+    difficulty: medium
+  - name: Amazon
+    focus: coding_dsa
+    difficulty: hard
+  - name: Microsoft
+    focus: coding_dsa
+    difficulty: hard

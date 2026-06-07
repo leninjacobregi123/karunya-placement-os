@@ -1,0 +1,37 @@
+{
+  "title": "Simple and Compound Interest",
+  "description": "Learn to calculate simple interest, compound interest, and compare them.",
+  "day": 10,
+  "exercises": [
+    {
+      "num": 1,
+      "test": "Find SI on 5000 at 8% for 3 years.",
+      "solution": "SI = 5000 * 8 * 3/100 = 1200",
+      "concept": "SI = P * R * T/100"
+    },
+    {
+      "num": 2,
+      "test": "Amount if 10000 compounded annually at 10% for 2 years?",
+      "solution": "A = 10000(1+0.10)*2 = 10000 * 1.21 = 12100",
+      "concept": "A = P(1+R/100)*n"
+    },
+    {
+      "num": 3,
+      "test": "Find CI on 8000 at 5% for 2 years compounded annually.",
+      "solution": "CI = 8000(1.05*2 - 1) = 8000(1.1025 - 1) = 820",
+      "concept": "CI = Amount - Principal"
+    },
+    {
+      "num": 4,
+      "test": "Principal that amounts to 13200 in 2 years at 10% SI?",
+      "solution": "13200 = P(1 + 10*2/100) = P * 1.2, P = 11000",
+      "concept": "P = Amount / (1 + RT/100)"
+    },
+    {
+      "num": 5,
+      "test": "What is the difference between CI and SI on 10000 at 10% for 2 years?",
+      "solution": "SI = 2000, CI = 2100, Difference = 100",
+      "concept": "Diff = P(R/100)*2 for 2 years"
+    }
+  ]
+}

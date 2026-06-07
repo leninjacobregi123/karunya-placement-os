@@ -1,0 +1,601 @@
+id,path,day,topic,slug,difficulty,tier,title
+KPOS-CD-01-01,coding-dsa,1,Python Diagnostic,python-diagnostic,easy,must_do,Eligibility counter
+KPOS-CD-01-02,coding-dsa,1,Python Diagnostic,python-diagnostic,easy,must_do,Grade band label
+KPOS-CD-01-03,coding-dsa,1,Python Diagnostic,python-diagnostic,easy,must_do,Total study minutes
+KPOS-CD-01-04,coding-dsa,1,Python Diagnostic,python-diagnostic,medium,should_do,Normalize names
+KPOS-CD-01-05,coding-dsa,1,Python Diagnostic,python-diagnostic,medium,should_do,Pass streak
+KPOS-CD-01-06,coding-dsa,1,Python Diagnostic,python-diagnostic,medium,should_do,Simple report
+KPOS-CD-01-07,coding-dsa,1,Python Diagnostic,python-diagnostic,medium-hard,stretch,Repair marks
+KPOS-CD-01-08,coding-dsa,1,Python Diagnostic,python-diagnostic,medium-hard,stretch,Diagnostic summary
+KPOS-CD-02-01,coding-dsa,2,Dry Run Thinking,dry-run-thinking,easy,must_do,Dry Run Thinking: warm-up implementation
+KPOS-CD-02-02,coding-dsa,2,Dry Run Thinking,dry-run-thinking,easy,must_do,Dry Run Thinking: edge-case checker
+KPOS-CD-02-03,coding-dsa,2,Dry Run Thinking,dry-run-thinking,easy,must_do,Dry Run Thinking: explainable solution
+KPOS-CD-02-04,coding-dsa,2,Dry Run Thinking,dry-run-thinking,medium,should_do,Dry Run Thinking: interview variant 1
+KPOS-CD-02-05,coding-dsa,2,Dry Run Thinking,dry-run-thinking,medium,should_do,Dry Run Thinking: interview variant 2
+KPOS-CD-02-06,coding-dsa,2,Dry Run Thinking,dry-run-thinking,medium,should_do,Dry Run Thinking: pattern recognition drill
+KPOS-CD-02-07,coding-dsa,2,Dry Run Thinking,dry-run-thinking,medium-hard,stretch,Dry Run Thinking: timed placement challenge
+KPOS-CD-02-08,coding-dsa,2,Dry Run Thinking,dry-run-thinking,medium-hard,stretch,Dry Run Thinking: mixed follow-up
+KPOS-CD-03-01,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,easy,must_do,"Conditions, Loops, and Functions: warm-up implementation"
+KPOS-CD-03-02,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,easy,must_do,"Conditions, Loops, and Functions: edge-case checker"
+KPOS-CD-03-03,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,easy,must_do,"Conditions, Loops, and Functions: explainable solution"
+KPOS-CD-03-04,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,medium,should_do,"Conditions, Loops, and Functions: interview variant 1"
+KPOS-CD-03-05,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,medium,should_do,"Conditions, Loops, and Functions: interview variant 2"
+KPOS-CD-03-06,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,medium,should_do,"Conditions, Loops, and Functions: pattern recognition drill"
+KPOS-CD-03-07,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,medium-hard,stretch,"Conditions, Loops, and Functions: timed placement challenge"
+KPOS-CD-03-08,coding-dsa,3,"Conditions, Loops, and Functions",conditions-loops-functions,medium-hard,stretch,"Conditions, Loops, and Functions: mixed follow-up"
+KPOS-CD-04-01,coding-dsa,4,Lists and Strings,lists-and-strings,easy,must_do,Lists and Strings: warm-up implementation
+KPOS-CD-04-02,coding-dsa,4,Lists and Strings,lists-and-strings,easy,must_do,Lists and Strings: edge-case checker
+KPOS-CD-04-03,coding-dsa,4,Lists and Strings,lists-and-strings,easy,must_do,Lists and Strings: explainable solution
+KPOS-CD-04-04,coding-dsa,4,Lists and Strings,lists-and-strings,medium,should_do,Lists and Strings: interview variant 1
+KPOS-CD-04-05,coding-dsa,4,Lists and Strings,lists-and-strings,medium,should_do,Lists and Strings: interview variant 2
+KPOS-CD-04-06,coding-dsa,4,Lists and Strings,lists-and-strings,medium,should_do,Lists and Strings: pattern recognition drill
+KPOS-CD-04-07,coding-dsa,4,Lists and Strings,lists-and-strings,medium-hard,stretch,Lists and Strings: timed placement challenge
+KPOS-CD-04-08,coding-dsa,4,Lists and Strings,lists-and-strings,medium-hard,stretch,Lists and Strings: mixed follow-up
+KPOS-CD-05-01,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,easy,must_do,Dictionaries and Sets: warm-up implementation
+KPOS-CD-05-02,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,easy,must_do,Dictionaries and Sets: edge-case checker
+KPOS-CD-05-03,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,easy,must_do,Dictionaries and Sets: explainable solution
+KPOS-CD-05-04,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,medium,should_do,Dictionaries and Sets: interview variant 1
+KPOS-CD-05-05,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,medium,should_do,Dictionaries and Sets: interview variant 2
+KPOS-CD-05-06,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,medium,should_do,Dictionaries and Sets: pattern recognition drill
+KPOS-CD-05-07,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,medium-hard,stretch,Dictionaries and Sets: timed placement challenge
+KPOS-CD-05-08,coding-dsa,5,Dictionaries and Sets,dictionaries-and-sets,medium-hard,stretch,Dictionaries and Sets: mixed follow-up
+KPOS-CD-06-01,coding-dsa,6,Time Complexity,time-complexity,easy,must_do,Time Complexity: warm-up implementation
+KPOS-CD-06-02,coding-dsa,6,Time Complexity,time-complexity,easy,must_do,Time Complexity: edge-case checker
+KPOS-CD-06-03,coding-dsa,6,Time Complexity,time-complexity,easy,must_do,Time Complexity: explainable solution
+KPOS-CD-06-04,coding-dsa,6,Time Complexity,time-complexity,medium,should_do,Time Complexity: interview variant 1
+KPOS-CD-06-05,coding-dsa,6,Time Complexity,time-complexity,medium,should_do,Time Complexity: interview variant 2
+KPOS-CD-06-06,coding-dsa,6,Time Complexity,time-complexity,medium,should_do,Time Complexity: pattern recognition drill
+KPOS-CD-06-07,coding-dsa,6,Time Complexity,time-complexity,medium-hard,stretch,Time Complexity: timed placement challenge
+KPOS-CD-06-08,coding-dsa,6,Time Complexity,time-complexity,medium-hard,stretch,Time Complexity: mixed follow-up
+KPOS-CD-07-01,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,easy,must_do,Arrays and Frequency Maps: warm-up implementation
+KPOS-CD-07-02,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,easy,must_do,Arrays and Frequency Maps: edge-case checker
+KPOS-CD-07-03,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,easy,must_do,Arrays and Frequency Maps: explainable solution
+KPOS-CD-07-04,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,medium,should_do,Arrays and Frequency Maps: interview variant 1
+KPOS-CD-07-05,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,medium,should_do,Arrays and Frequency Maps: interview variant 2
+KPOS-CD-07-06,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,medium,should_do,Arrays and Frequency Maps: pattern recognition drill
+KPOS-CD-07-07,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,medium-hard,stretch,Arrays and Frequency Maps: timed placement challenge
+KPOS-CD-07-08,coding-dsa,7,Arrays and Frequency Maps,arrays-frequency-maps,medium-hard,stretch,Arrays and Frequency Maps: mixed follow-up
+KPOS-CD-08-01,coding-dsa,8,Prefix Sum,prefix-sum,easy,must_do,Prefix Sum: warm-up implementation
+KPOS-CD-08-02,coding-dsa,8,Prefix Sum,prefix-sum,easy,must_do,Prefix Sum: edge-case checker
+KPOS-CD-08-03,coding-dsa,8,Prefix Sum,prefix-sum,easy,must_do,Prefix Sum: explainable solution
+KPOS-CD-08-04,coding-dsa,8,Prefix Sum,prefix-sum,medium,should_do,Prefix Sum: interview variant 1
+KPOS-CD-08-05,coding-dsa,8,Prefix Sum,prefix-sum,medium,should_do,Prefix Sum: interview variant 2
+KPOS-CD-08-06,coding-dsa,8,Prefix Sum,prefix-sum,medium,should_do,Prefix Sum: pattern recognition drill
+KPOS-CD-08-07,coding-dsa,8,Prefix Sum,prefix-sum,medium-hard,stretch,Prefix Sum: timed placement challenge
+KPOS-CD-08-08,coding-dsa,8,Prefix Sum,prefix-sum,medium-hard,stretch,Prefix Sum: mixed follow-up
+KPOS-CD-09-01,coding-dsa,9,Two Pointers,two-pointers,easy,must_do,Sorted pair sum exists
+KPOS-CD-09-02,coding-dsa,9,Two Pointers,two-pointers,easy,must_do,Remove repeated neighbors
+KPOS-CD-09-03,coding-dsa,9,Two Pointers,two-pointers,easy,must_do,Palindrome ignoring spaces
+KPOS-CD-09-04,coding-dsa,9,Two Pointers,two-pointers,medium,should_do,Closest pair sum
+KPOS-CD-09-05,coding-dsa,9,Two Pointers,two-pointers,medium,should_do,Pair count below limit
+KPOS-CD-09-06,coding-dsa,9,Two Pointers,two-pointers,medium,should_do,Merge sorted unique
+KPOS-CD-09-07,coding-dsa,9,Two Pointers,two-pointers,medium-hard,stretch,Three value zero witness
+KPOS-CD-09-08,coding-dsa,9,Two Pointers,two-pointers,medium-hard,stretch,Max water area small
+KPOS-CD-10-01,coding-dsa,10,Sliding Window,sliding-window,easy,must_do,Sliding Window: warm-up implementation
+KPOS-CD-10-02,coding-dsa,10,Sliding Window,sliding-window,easy,must_do,Sliding Window: edge-case checker
+KPOS-CD-10-03,coding-dsa,10,Sliding Window,sliding-window,easy,must_do,Sliding Window: explainable solution
+KPOS-CD-10-04,coding-dsa,10,Sliding Window,sliding-window,medium,should_do,Sliding Window: interview variant 1
+KPOS-CD-10-05,coding-dsa,10,Sliding Window,sliding-window,medium,should_do,Sliding Window: interview variant 2
+KPOS-CD-10-06,coding-dsa,10,Sliding Window,sliding-window,medium,should_do,Sliding Window: pattern recognition drill
+KPOS-CD-10-07,coding-dsa,10,Sliding Window,sliding-window,medium-hard,stretch,Sliding Window: timed placement challenge
+KPOS-CD-10-08,coding-dsa,10,Sliding Window,sliding-window,medium-hard,stretch,Sliding Window: mixed follow-up
+KPOS-CD-11-01,coding-dsa,11,Stack,stack,easy,must_do,Stack: warm-up implementation
+KPOS-CD-11-02,coding-dsa,11,Stack,stack,easy,must_do,Stack: edge-case checker
+KPOS-CD-11-03,coding-dsa,11,Stack,stack,easy,must_do,Stack: explainable solution
+KPOS-CD-11-04,coding-dsa,11,Stack,stack,medium,should_do,Stack: interview variant 1
+KPOS-CD-11-05,coding-dsa,11,Stack,stack,medium,should_do,Stack: interview variant 2
+KPOS-CD-11-06,coding-dsa,11,Stack,stack,medium,should_do,Stack: pattern recognition drill
+KPOS-CD-11-07,coding-dsa,11,Stack,stack,medium-hard,stretch,Stack: timed placement challenge
+KPOS-CD-11-08,coding-dsa,11,Stack,stack,medium-hard,stretch,Stack: mixed follow-up
+KPOS-CD-12-01,coding-dsa,12,Queue and Deque,queue-deque,easy,must_do,Queue and Deque: warm-up implementation
+KPOS-CD-12-02,coding-dsa,12,Queue and Deque,queue-deque,easy,must_do,Queue and Deque: edge-case checker
+KPOS-CD-12-03,coding-dsa,12,Queue and Deque,queue-deque,easy,must_do,Queue and Deque: explainable solution
+KPOS-CD-12-04,coding-dsa,12,Queue and Deque,queue-deque,medium,should_do,Queue and Deque: interview variant 1
+KPOS-CD-12-05,coding-dsa,12,Queue and Deque,queue-deque,medium,should_do,Queue and Deque: interview variant 2
+KPOS-CD-12-06,coding-dsa,12,Queue and Deque,queue-deque,medium,should_do,Queue and Deque: pattern recognition drill
+KPOS-CD-12-07,coding-dsa,12,Queue and Deque,queue-deque,medium-hard,stretch,Queue and Deque: timed placement challenge
+KPOS-CD-12-08,coding-dsa,12,Queue and Deque,queue-deque,medium-hard,stretch,Queue and Deque: mixed follow-up
+KPOS-CD-13-01,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,easy,must_do,Sorting and Custom Keys: warm-up implementation
+KPOS-CD-13-02,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,easy,must_do,Sorting and Custom Keys: edge-case checker
+KPOS-CD-13-03,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,easy,must_do,Sorting and Custom Keys: explainable solution
+KPOS-CD-13-04,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,medium,should_do,Sorting and Custom Keys: interview variant 1
+KPOS-CD-13-05,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,medium,should_do,Sorting and Custom Keys: interview variant 2
+KPOS-CD-13-06,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,medium,should_do,Sorting and Custom Keys: pattern recognition drill
+KPOS-CD-13-07,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,medium-hard,stretch,Sorting and Custom Keys: timed placement challenge
+KPOS-CD-13-08,coding-dsa,13,Sorting and Custom Keys,sorting-custom-keys,medium-hard,stretch,Sorting and Custom Keys: mixed follow-up
+KPOS-CD-14-01,coding-dsa,14,Binary Search,binary-search,easy,must_do,Index of target
+KPOS-CD-14-02,coding-dsa,14,Binary Search,binary-search,easy,must_do,First true day
+KPOS-CD-14-03,coding-dsa,14,Binary Search,binary-search,easy,must_do,Insert position
+KPOS-CD-14-04,coding-dsa,14,Binary Search,binary-search,medium,should_do,First occurrence
+KPOS-CD-14-05,coding-dsa,14,Binary Search,binary-search,medium,should_do,Integer square root
+KPOS-CD-14-06,coding-dsa,14,Binary Search,binary-search,medium,should_do,Minimum capacity
+KPOS-CD-14-07,coding-dsa,14,Binary Search,binary-search,medium-hard,stretch,Rotated minimum
+KPOS-CD-14-08,coding-dsa,14,Binary Search,binary-search,medium-hard,stretch,Peak position
+KPOS-CD-15-01,coding-dsa,15,Linked Lists,linked-lists,easy,must_do,Linked Lists: warm-up implementation
+KPOS-CD-15-02,coding-dsa,15,Linked Lists,linked-lists,easy,must_do,Linked Lists: edge-case checker
+KPOS-CD-15-03,coding-dsa,15,Linked Lists,linked-lists,easy,must_do,Linked Lists: explainable solution
+KPOS-CD-15-04,coding-dsa,15,Linked Lists,linked-lists,medium,should_do,Linked Lists: interview variant 1
+KPOS-CD-15-05,coding-dsa,15,Linked Lists,linked-lists,medium,should_do,Linked Lists: interview variant 2
+KPOS-CD-15-06,coding-dsa,15,Linked Lists,linked-lists,medium,should_do,Linked Lists: pattern recognition drill
+KPOS-CD-15-07,coding-dsa,15,Linked Lists,linked-lists,medium-hard,stretch,Linked Lists: timed placement challenge
+KPOS-CD-15-08,coding-dsa,15,Linked Lists,linked-lists,medium-hard,stretch,Linked Lists: mixed follow-up
+KPOS-CD-16-01,coding-dsa,16,Recursion,recursion,easy,must_do,Recursion: warm-up implementation
+KPOS-CD-16-02,coding-dsa,16,Recursion,recursion,easy,must_do,Recursion: edge-case checker
+KPOS-CD-16-03,coding-dsa,16,Recursion,recursion,easy,must_do,Recursion: explainable solution
+KPOS-CD-16-04,coding-dsa,16,Recursion,recursion,medium,should_do,Recursion: interview variant 1
+KPOS-CD-16-05,coding-dsa,16,Recursion,recursion,medium,should_do,Recursion: interview variant 2
+KPOS-CD-16-06,coding-dsa,16,Recursion,recursion,medium,should_do,Recursion: pattern recognition drill
+KPOS-CD-16-07,coding-dsa,16,Recursion,recursion,medium-hard,stretch,Recursion: timed placement challenge
+KPOS-CD-16-08,coding-dsa,16,Recursion,recursion,medium-hard,stretch,Recursion: mixed follow-up
+KPOS-CD-17-01,coding-dsa,17,Backtracking,backtracking,easy,must_do,Backtracking: warm-up implementation
+KPOS-CD-17-02,coding-dsa,17,Backtracking,backtracking,easy,must_do,Backtracking: edge-case checker
+KPOS-CD-17-03,coding-dsa,17,Backtracking,backtracking,easy,must_do,Backtracking: explainable solution
+KPOS-CD-17-04,coding-dsa,17,Backtracking,backtracking,medium,should_do,Backtracking: interview variant 1
+KPOS-CD-17-05,coding-dsa,17,Backtracking,backtracking,medium,should_do,Backtracking: interview variant 2
+KPOS-CD-17-06,coding-dsa,17,Backtracking,backtracking,medium,should_do,Backtracking: pattern recognition drill
+KPOS-CD-17-07,coding-dsa,17,Backtracking,backtracking,medium-hard,stretch,Backtracking: timed placement challenge
+KPOS-CD-17-08,coding-dsa,17,Backtracking,backtracking,medium-hard,stretch,Backtracking: mixed follow-up
+KPOS-CD-18-01,coding-dsa,18,Trees: Traversal,trees-traversal,easy,must_do,Trees: Traversal: warm-up implementation
+KPOS-CD-18-02,coding-dsa,18,Trees: Traversal,trees-traversal,easy,must_do,Trees: Traversal: edge-case checker
+KPOS-CD-18-03,coding-dsa,18,Trees: Traversal,trees-traversal,easy,must_do,Trees: Traversal: explainable solution
+KPOS-CD-18-04,coding-dsa,18,Trees: Traversal,trees-traversal,medium,should_do,Trees: Traversal: interview variant 1
+KPOS-CD-18-05,coding-dsa,18,Trees: Traversal,trees-traversal,medium,should_do,Trees: Traversal: interview variant 2
+KPOS-CD-18-06,coding-dsa,18,Trees: Traversal,trees-traversal,medium,should_do,Trees: Traversal: pattern recognition drill
+KPOS-CD-18-07,coding-dsa,18,Trees: Traversal,trees-traversal,medium-hard,stretch,Trees: Traversal: timed placement challenge
+KPOS-CD-18-08,coding-dsa,18,Trees: Traversal,trees-traversal,medium-hard,stretch,Trees: Traversal: mixed follow-up
+KPOS-CD-19-01,coding-dsa,19,Trees: Interview Patterns,tree-patterns,easy,must_do,Trees: Interview Patterns: warm-up implementation
+KPOS-CD-19-02,coding-dsa,19,Trees: Interview Patterns,tree-patterns,easy,must_do,Trees: Interview Patterns: edge-case checker
+KPOS-CD-19-03,coding-dsa,19,Trees: Interview Patterns,tree-patterns,easy,must_do,Trees: Interview Patterns: explainable solution
+KPOS-CD-19-04,coding-dsa,19,Trees: Interview Patterns,tree-patterns,medium,should_do,Trees: Interview Patterns: interview variant 1
+KPOS-CD-19-05,coding-dsa,19,Trees: Interview Patterns,tree-patterns,medium,should_do,Trees: Interview Patterns: interview variant 2
+KPOS-CD-19-06,coding-dsa,19,Trees: Interview Patterns,tree-patterns,medium,should_do,Trees: Interview Patterns: pattern recognition drill
+KPOS-CD-19-07,coding-dsa,19,Trees: Interview Patterns,tree-patterns,medium-hard,stretch,Trees: Interview Patterns: timed placement challenge
+KPOS-CD-19-08,coding-dsa,19,Trees: Interview Patterns,tree-patterns,medium-hard,stretch,Trees: Interview Patterns: mixed follow-up
+KPOS-CD-20-01,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,easy,must_do,Heap / Priority Queue: warm-up implementation
+KPOS-CD-20-02,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,easy,must_do,Heap / Priority Queue: edge-case checker
+KPOS-CD-20-03,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,easy,must_do,Heap / Priority Queue: explainable solution
+KPOS-CD-20-04,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,medium,should_do,Heap / Priority Queue: interview variant 1
+KPOS-CD-20-05,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,medium,should_do,Heap / Priority Queue: interview variant 2
+KPOS-CD-20-06,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,medium,should_do,Heap / Priority Queue: pattern recognition drill
+KPOS-CD-20-07,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,medium-hard,stretch,Heap / Priority Queue: timed placement challenge
+KPOS-CD-20-08,coding-dsa,20,Heap / Priority Queue,heap-priority-queue,medium-hard,stretch,Heap / Priority Queue: mixed follow-up
+KPOS-CD-21-01,coding-dsa,21,Trie,trie,easy,must_do,Trie: warm-up implementation
+KPOS-CD-21-02,coding-dsa,21,Trie,trie,easy,must_do,Trie: edge-case checker
+KPOS-CD-21-03,coding-dsa,21,Trie,trie,easy,must_do,Trie: explainable solution
+KPOS-CD-21-04,coding-dsa,21,Trie,trie,medium,should_do,Trie: interview variant 1
+KPOS-CD-21-05,coding-dsa,21,Trie,trie,medium,should_do,Trie: interview variant 2
+KPOS-CD-21-06,coding-dsa,21,Trie,trie,medium,should_do,Trie: pattern recognition drill
+KPOS-CD-21-07,coding-dsa,21,Trie,trie,medium-hard,stretch,Trie: timed placement challenge
+KPOS-CD-21-08,coding-dsa,21,Trie,trie,medium-hard,stretch,Trie: mixed follow-up
+KPOS-CD-22-01,coding-dsa,22,Graph Representation,graph-representation,easy,must_do,Graph Representation: warm-up implementation
+KPOS-CD-22-02,coding-dsa,22,Graph Representation,graph-representation,easy,must_do,Graph Representation: edge-case checker
+KPOS-CD-22-03,coding-dsa,22,Graph Representation,graph-representation,easy,must_do,Graph Representation: explainable solution
+KPOS-CD-22-04,coding-dsa,22,Graph Representation,graph-representation,medium,should_do,Graph Representation: interview variant 1
+KPOS-CD-22-05,coding-dsa,22,Graph Representation,graph-representation,medium,should_do,Graph Representation: interview variant 2
+KPOS-CD-22-06,coding-dsa,22,Graph Representation,graph-representation,medium,should_do,Graph Representation: pattern recognition drill
+KPOS-CD-22-07,coding-dsa,22,Graph Representation,graph-representation,medium-hard,stretch,Graph Representation: timed placement challenge
+KPOS-CD-22-08,coding-dsa,22,Graph Representation,graph-representation,medium-hard,stretch,Graph Representation: mixed follow-up
+KPOS-CD-23-01,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,easy,must_do,Graph BFS and DFS: warm-up implementation
+KPOS-CD-23-02,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,easy,must_do,Graph BFS and DFS: edge-case checker
+KPOS-CD-23-03,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,easy,must_do,Graph BFS and DFS: explainable solution
+KPOS-CD-23-04,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,medium,should_do,Graph BFS and DFS: interview variant 1
+KPOS-CD-23-05,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,medium,should_do,Graph BFS and DFS: interview variant 2
+KPOS-CD-23-06,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,medium,should_do,Graph BFS and DFS: pattern recognition drill
+KPOS-CD-23-07,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,medium-hard,stretch,Graph BFS and DFS: timed placement challenge
+KPOS-CD-23-08,coding-dsa,23,Graph BFS and DFS,graph-bfs-dfs,medium-hard,stretch,Graph BFS and DFS: mixed follow-up
+KPOS-CD-24-01,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,easy,must_do,Dynamic Programming Intuition: warm-up implementation
+KPOS-CD-24-02,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,easy,must_do,Dynamic Programming Intuition: edge-case checker
+KPOS-CD-24-03,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,easy,must_do,Dynamic Programming Intuition: explainable solution
+KPOS-CD-24-04,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,medium,should_do,Dynamic Programming Intuition: interview variant 1
+KPOS-CD-24-05,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,medium,should_do,Dynamic Programming Intuition: interview variant 2
+KPOS-CD-24-06,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,medium,should_do,Dynamic Programming Intuition: pattern recognition drill
+KPOS-CD-24-07,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,medium-hard,stretch,Dynamic Programming Intuition: timed placement challenge
+KPOS-CD-24-08,coding-dsa,24,Dynamic Programming Intuition,dp-intuition,medium-hard,stretch,Dynamic Programming Intuition: mixed follow-up
+KPOS-CD-25-01,coding-dsa,25,1D Dynamic Programming,dp-1d,easy,must_do,1D Dynamic Programming: warm-up implementation
+KPOS-CD-25-02,coding-dsa,25,1D Dynamic Programming,dp-1d,easy,must_do,1D Dynamic Programming: edge-case checker
+KPOS-CD-25-03,coding-dsa,25,1D Dynamic Programming,dp-1d,easy,must_do,1D Dynamic Programming: explainable solution
+KPOS-CD-25-04,coding-dsa,25,1D Dynamic Programming,dp-1d,medium,should_do,1D Dynamic Programming: interview variant 1
+KPOS-CD-25-05,coding-dsa,25,1D Dynamic Programming,dp-1d,medium,should_do,1D Dynamic Programming: interview variant 2
+KPOS-CD-25-06,coding-dsa,25,1D Dynamic Programming,dp-1d,medium,should_do,1D Dynamic Programming: pattern recognition drill
+KPOS-CD-25-07,coding-dsa,25,1D Dynamic Programming,dp-1d,medium-hard,stretch,1D Dynamic Programming: timed placement challenge
+KPOS-CD-25-08,coding-dsa,25,1D Dynamic Programming,dp-1d,medium-hard,stretch,1D Dynamic Programming: mixed follow-up
+KPOS-CD-26-01,coding-dsa,26,2D Dynamic Programming,dp-2d,easy,must_do,2D Dynamic Programming: warm-up implementation
+KPOS-CD-26-02,coding-dsa,26,2D Dynamic Programming,dp-2d,easy,must_do,2D Dynamic Programming: edge-case checker
+KPOS-CD-26-03,coding-dsa,26,2D Dynamic Programming,dp-2d,easy,must_do,2D Dynamic Programming: explainable solution
+KPOS-CD-26-04,coding-dsa,26,2D Dynamic Programming,dp-2d,medium,should_do,2D Dynamic Programming: interview variant 1
+KPOS-CD-26-05,coding-dsa,26,2D Dynamic Programming,dp-2d,medium,should_do,2D Dynamic Programming: interview variant 2
+KPOS-CD-26-06,coding-dsa,26,2D Dynamic Programming,dp-2d,medium,should_do,2D Dynamic Programming: pattern recognition drill
+KPOS-CD-26-07,coding-dsa,26,2D Dynamic Programming,dp-2d,medium-hard,stretch,2D Dynamic Programming: timed placement challenge
+KPOS-CD-26-08,coding-dsa,26,2D Dynamic Programming,dp-2d,medium-hard,stretch,2D Dynamic Programming: mixed follow-up
+KPOS-CD-27-01,coding-dsa,27,Greedy Basics,greedy-basics,easy,must_do,Greedy Basics: warm-up implementation
+KPOS-CD-27-02,coding-dsa,27,Greedy Basics,greedy-basics,easy,must_do,Greedy Basics: edge-case checker
+KPOS-CD-27-03,coding-dsa,27,Greedy Basics,greedy-basics,easy,must_do,Greedy Basics: explainable solution
+KPOS-CD-27-04,coding-dsa,27,Greedy Basics,greedy-basics,medium,should_do,Greedy Basics: interview variant 1
+KPOS-CD-27-05,coding-dsa,27,Greedy Basics,greedy-basics,medium,should_do,Greedy Basics: interview variant 2
+KPOS-CD-27-06,coding-dsa,27,Greedy Basics,greedy-basics,medium,should_do,Greedy Basics: pattern recognition drill
+KPOS-CD-27-07,coding-dsa,27,Greedy Basics,greedy-basics,medium-hard,stretch,Greedy Basics: timed placement challenge
+KPOS-CD-27-08,coding-dsa,27,Greedy Basics,greedy-basics,medium-hard,stretch,Greedy Basics: mixed follow-up
+KPOS-CD-28-01,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,easy,must_do,Mixed Pattern Recognition: warm-up implementation
+KPOS-CD-28-02,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,easy,must_do,Mixed Pattern Recognition: edge-case checker
+KPOS-CD-28-03,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,easy,must_do,Mixed Pattern Recognition: explainable solution
+KPOS-CD-28-04,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,medium,should_do,Mixed Pattern Recognition: interview variant 1
+KPOS-CD-28-05,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,medium,should_do,Mixed Pattern Recognition: interview variant 2
+KPOS-CD-28-06,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,medium,should_do,Mixed Pattern Recognition: pattern recognition drill
+KPOS-CD-28-07,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,medium-hard,stretch,Mixed Pattern Recognition: timed placement challenge
+KPOS-CD-28-08,coding-dsa,28,Mixed Pattern Recognition,mixed-pattern-recognition,medium-hard,stretch,Mixed Pattern Recognition: mixed follow-up
+KPOS-CD-29-01,coding-dsa,29,Timed Coding Mock,timed-coding-mock,easy,must_do,Timed Coding Mock: warm-up implementation
+KPOS-CD-29-02,coding-dsa,29,Timed Coding Mock,timed-coding-mock,easy,must_do,Timed Coding Mock: edge-case checker
+KPOS-CD-29-03,coding-dsa,29,Timed Coding Mock,timed-coding-mock,easy,must_do,Timed Coding Mock: explainable solution
+KPOS-CD-29-04,coding-dsa,29,Timed Coding Mock,timed-coding-mock,medium,should_do,Timed Coding Mock: interview variant 1
+KPOS-CD-29-05,coding-dsa,29,Timed Coding Mock,timed-coding-mock,medium,should_do,Timed Coding Mock: interview variant 2
+KPOS-CD-29-06,coding-dsa,29,Timed Coding Mock,timed-coding-mock,medium,should_do,Timed Coding Mock: pattern recognition drill
+KPOS-CD-29-07,coding-dsa,29,Timed Coding Mock,timed-coding-mock,medium-hard,stretch,Timed Coding Mock: timed placement challenge
+KPOS-CD-29-08,coding-dsa,29,Timed Coding Mock,timed-coding-mock,medium-hard,stretch,Timed Coding Mock: mixed follow-up
+KPOS-CD-30-01,coding-dsa,30,Final Coding Review,final-coding-review,easy,must_do,Final Coding Review: warm-up implementation
+KPOS-CD-30-02,coding-dsa,30,Final Coding Review,final-coding-review,easy,must_do,Final Coding Review: edge-case checker
+KPOS-CD-30-03,coding-dsa,30,Final Coding Review,final-coding-review,easy,must_do,Final Coding Review: explainable solution
+KPOS-CD-30-04,coding-dsa,30,Final Coding Review,final-coding-review,medium,should_do,Final Coding Review: interview variant 1
+KPOS-CD-30-05,coding-dsa,30,Final Coding Review,final-coding-review,medium,should_do,Final Coding Review: interview variant 2
+KPOS-CD-30-06,coding-dsa,30,Final Coding Review,final-coding-review,medium,should_do,Final Coding Review: pattern recognition drill
+KPOS-CD-30-07,coding-dsa,30,Final Coding Review,final-coding-review,medium-hard,stretch,Final Coding Review: timed placement challenge
+KPOS-CD-30-08,coding-dsa,30,Final Coding Review,final-coding-review,medium-hard,stretch,Final Coding Review: mixed follow-up
+KPOS-AR-01-01,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,easy,must_do,Number Basics Diagnostic drill 1
+KPOS-AR-01-02,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,easy,must_do,Number Basics Diagnostic drill 2
+KPOS-AR-01-03,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,easy,must_do,Number Basics Diagnostic drill 3
+KPOS-AR-01-04,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,easy,must_do,Number Basics Diagnostic drill 4
+KPOS-AR-01-05,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,easy,must_do,Number Basics Diagnostic drill 5
+KPOS-AR-01-06,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium,must_do,Number Basics Diagnostic drill 6
+KPOS-AR-01-07,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium,should_do,Number Basics Diagnostic drill 7
+KPOS-AR-01-08,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium,should_do,Number Basics Diagnostic drill 8
+KPOS-AR-01-09,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium,should_do,Number Basics Diagnostic drill 9
+KPOS-AR-01-10,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium,should_do,Number Basics Diagnostic drill 10
+KPOS-AR-01-11,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium-hard,stretch,Number Basics Diagnostic drill 11
+KPOS-AR-01-12,aptitude-reasoning,1,Number Basics Diagnostic,number-basics,medium-hard,stretch,Number Basics Diagnostic drill 12
+KPOS-AR-02-01,aptitude-reasoning,2,Percentages,percentages,easy,must_do,Percentages drill 1
+KPOS-AR-02-02,aptitude-reasoning,2,Percentages,percentages,easy,must_do,Percentages drill 2
+KPOS-AR-02-03,aptitude-reasoning,2,Percentages,percentages,easy,must_do,Percentages drill 3
+KPOS-AR-02-04,aptitude-reasoning,2,Percentages,percentages,easy,must_do,Percentages drill 4
+KPOS-AR-02-05,aptitude-reasoning,2,Percentages,percentages,easy,must_do,Percentages drill 5
+KPOS-AR-02-06,aptitude-reasoning,2,Percentages,percentages,medium,must_do,Percentages drill 6
+KPOS-AR-02-07,aptitude-reasoning,2,Percentages,percentages,medium,should_do,Percentages drill 7
+KPOS-AR-02-08,aptitude-reasoning,2,Percentages,percentages,medium,should_do,Percentages drill 8
+KPOS-AR-02-09,aptitude-reasoning,2,Percentages,percentages,medium,should_do,Percentages drill 9
+KPOS-AR-02-10,aptitude-reasoning,2,Percentages,percentages,medium,should_do,Percentages drill 10
+KPOS-AR-02-11,aptitude-reasoning,2,Percentages,percentages,medium-hard,stretch,Percentages drill 11
+KPOS-AR-02-12,aptitude-reasoning,2,Percentages,percentages,medium-hard,stretch,Percentages drill 12
+KPOS-AR-03-01,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,easy,must_do,Ratios and Proportions drill 1
+KPOS-AR-03-02,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,easy,must_do,Ratios and Proportions drill 2
+KPOS-AR-03-03,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,easy,must_do,Ratios and Proportions drill 3
+KPOS-AR-03-04,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,easy,must_do,Ratios and Proportions drill 4
+KPOS-AR-03-05,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,easy,must_do,Ratios and Proportions drill 5
+KPOS-AR-03-06,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium,must_do,Ratios and Proportions drill 6
+KPOS-AR-03-07,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium,should_do,Ratios and Proportions drill 7
+KPOS-AR-03-08,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium,should_do,Ratios and Proportions drill 8
+KPOS-AR-03-09,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium,should_do,Ratios and Proportions drill 9
+KPOS-AR-03-10,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium,should_do,Ratios and Proportions drill 10
+KPOS-AR-03-11,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium-hard,stretch,Ratios and Proportions drill 11
+KPOS-AR-03-12,aptitude-reasoning,3,Ratios and Proportions,ratios-proportions,medium-hard,stretch,Ratios and Proportions drill 12
+KPOS-AR-04-01,aptitude-reasoning,4,Averages,averages,easy,must_do,Averages drill 1
+KPOS-AR-04-02,aptitude-reasoning,4,Averages,averages,easy,must_do,Averages drill 2
+KPOS-AR-04-03,aptitude-reasoning,4,Averages,averages,easy,must_do,Averages drill 3
+KPOS-AR-04-04,aptitude-reasoning,4,Averages,averages,easy,must_do,Averages drill 4
+KPOS-AR-04-05,aptitude-reasoning,4,Averages,averages,easy,must_do,Averages drill 5
+KPOS-AR-04-06,aptitude-reasoning,4,Averages,averages,medium,must_do,Averages drill 6
+KPOS-AR-04-07,aptitude-reasoning,4,Averages,averages,medium,should_do,Averages drill 7
+KPOS-AR-04-08,aptitude-reasoning,4,Averages,averages,medium,should_do,Averages drill 8
+KPOS-AR-04-09,aptitude-reasoning,4,Averages,averages,medium,should_do,Averages drill 9
+KPOS-AR-04-10,aptitude-reasoning,4,Averages,averages,medium,should_do,Averages drill 10
+KPOS-AR-04-11,aptitude-reasoning,4,Averages,averages,medium-hard,stretch,Averages drill 11
+KPOS-AR-04-12,aptitude-reasoning,4,Averages,averages,medium-hard,stretch,Averages drill 12
+KPOS-AR-05-01,aptitude-reasoning,5,Profit and Loss,profit-loss,easy,must_do,Profit and Loss drill 1
+KPOS-AR-05-02,aptitude-reasoning,5,Profit and Loss,profit-loss,easy,must_do,Profit and Loss drill 2
+KPOS-AR-05-03,aptitude-reasoning,5,Profit and Loss,profit-loss,easy,must_do,Profit and Loss drill 3
+KPOS-AR-05-04,aptitude-reasoning,5,Profit and Loss,profit-loss,easy,must_do,Profit and Loss drill 4
+KPOS-AR-05-05,aptitude-reasoning,5,Profit and Loss,profit-loss,easy,must_do,Profit and Loss drill 5
+KPOS-AR-05-06,aptitude-reasoning,5,Profit and Loss,profit-loss,medium,must_do,Profit and Loss drill 6
+KPOS-AR-05-07,aptitude-reasoning,5,Profit and Loss,profit-loss,medium,should_do,Profit and Loss drill 7
+KPOS-AR-05-08,aptitude-reasoning,5,Profit and Loss,profit-loss,medium,should_do,Profit and Loss drill 8
+KPOS-AR-05-09,aptitude-reasoning,5,Profit and Loss,profit-loss,medium,should_do,Profit and Loss drill 9
+KPOS-AR-05-10,aptitude-reasoning,5,Profit and Loss,profit-loss,medium,should_do,Profit and Loss drill 10
+KPOS-AR-05-11,aptitude-reasoning,5,Profit and Loss,profit-loss,medium-hard,stretch,Profit and Loss drill 11
+KPOS-AR-05-12,aptitude-reasoning,5,Profit and Loss,profit-loss,medium-hard,stretch,Profit and Loss drill 12
+KPOS-AR-06-01,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,easy,must_do,Simple and Compound Interest drill 1
+KPOS-AR-06-02,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,easy,must_do,Simple and Compound Interest drill 2
+KPOS-AR-06-03,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,easy,must_do,Simple and Compound Interest drill 3
+KPOS-AR-06-04,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,easy,must_do,Simple and Compound Interest drill 4
+KPOS-AR-06-05,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,easy,must_do,Simple and Compound Interest drill 5
+KPOS-AR-06-06,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium,must_do,Simple and Compound Interest drill 6
+KPOS-AR-06-07,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium,should_do,Simple and Compound Interest drill 7
+KPOS-AR-06-08,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium,should_do,Simple and Compound Interest drill 8
+KPOS-AR-06-09,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium,should_do,Simple and Compound Interest drill 9
+KPOS-AR-06-10,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium,should_do,Simple and Compound Interest drill 10
+KPOS-AR-06-11,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium-hard,stretch,Simple and Compound Interest drill 11
+KPOS-AR-06-12,aptitude-reasoning,6,Simple and Compound Interest,simple-compound-interest,medium-hard,stretch,Simple and Compound Interest drill 12
+KPOS-AR-07-01,aptitude-reasoning,7,Time and Work,time-and-work,easy,must_do,Time and Work drill 1
+KPOS-AR-07-02,aptitude-reasoning,7,Time and Work,time-and-work,easy,must_do,Time and Work drill 2
+KPOS-AR-07-03,aptitude-reasoning,7,Time and Work,time-and-work,easy,must_do,Time and Work drill 3
+KPOS-AR-07-04,aptitude-reasoning,7,Time and Work,time-and-work,easy,must_do,Time and Work drill 4
+KPOS-AR-07-05,aptitude-reasoning,7,Time and Work,time-and-work,easy,must_do,Time and Work drill 5
+KPOS-AR-07-06,aptitude-reasoning,7,Time and Work,time-and-work,medium,must_do,Time and Work drill 6
+KPOS-AR-07-07,aptitude-reasoning,7,Time and Work,time-and-work,medium,should_do,Time and Work drill 7
+KPOS-AR-07-08,aptitude-reasoning,7,Time and Work,time-and-work,medium,should_do,Time and Work drill 8
+KPOS-AR-07-09,aptitude-reasoning,7,Time and Work,time-and-work,medium,should_do,Time and Work drill 9
+KPOS-AR-07-10,aptitude-reasoning,7,Time and Work,time-and-work,medium,should_do,Time and Work drill 10
+KPOS-AR-07-11,aptitude-reasoning,7,Time and Work,time-and-work,medium-hard,stretch,Time and Work drill 11
+KPOS-AR-07-12,aptitude-reasoning,7,Time and Work,time-and-work,medium-hard,stretch,Time and Work drill 12
+KPOS-AR-08-01,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,easy,must_do,Pipes and Cisterns drill 1
+KPOS-AR-08-02,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,easy,must_do,Pipes and Cisterns drill 2
+KPOS-AR-08-03,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,easy,must_do,Pipes and Cisterns drill 3
+KPOS-AR-08-04,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,easy,must_do,Pipes and Cisterns drill 4
+KPOS-AR-08-05,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,easy,must_do,Pipes and Cisterns drill 5
+KPOS-AR-08-06,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium,must_do,Pipes and Cisterns drill 6
+KPOS-AR-08-07,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium,should_do,Pipes and Cisterns drill 7
+KPOS-AR-08-08,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium,should_do,Pipes and Cisterns drill 8
+KPOS-AR-08-09,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium,should_do,Pipes and Cisterns drill 9
+KPOS-AR-08-10,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium,should_do,Pipes and Cisterns drill 10
+KPOS-AR-08-11,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium-hard,stretch,Pipes and Cisterns drill 11
+KPOS-AR-08-12,aptitude-reasoning,8,Pipes and Cisterns,pipes-cisterns,medium-hard,stretch,Pipes and Cisterns drill 12
+KPOS-AR-09-01,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,easy,must_do,"Speed, Time, and Distance drill 1"
+KPOS-AR-09-02,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,easy,must_do,"Speed, Time, and Distance drill 2"
+KPOS-AR-09-03,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,easy,must_do,"Speed, Time, and Distance drill 3"
+KPOS-AR-09-04,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,easy,must_do,"Speed, Time, and Distance drill 4"
+KPOS-AR-09-05,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,easy,must_do,"Speed, Time, and Distance drill 5"
+KPOS-AR-09-06,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium,must_do,"Speed, Time, and Distance drill 6"
+KPOS-AR-09-07,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium,should_do,"Speed, Time, and Distance drill 7"
+KPOS-AR-09-08,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium,should_do,"Speed, Time, and Distance drill 8"
+KPOS-AR-09-09,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium,should_do,"Speed, Time, and Distance drill 9"
+KPOS-AR-09-10,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium,should_do,"Speed, Time, and Distance drill 10"
+KPOS-AR-09-11,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium-hard,stretch,"Speed, Time, and Distance drill 11"
+KPOS-AR-09-12,aptitude-reasoning,9,"Speed, Time, and Distance",speed-time-distance,medium-hard,stretch,"Speed, Time, and Distance drill 12"
+KPOS-AR-10-01,aptitude-reasoning,10,Trains and Boats,trains-boats,easy,must_do,Trains and Boats drill 1
+KPOS-AR-10-02,aptitude-reasoning,10,Trains and Boats,trains-boats,easy,must_do,Trains and Boats drill 2
+KPOS-AR-10-03,aptitude-reasoning,10,Trains and Boats,trains-boats,easy,must_do,Trains and Boats drill 3
+KPOS-AR-10-04,aptitude-reasoning,10,Trains and Boats,trains-boats,easy,must_do,Trains and Boats drill 4
+KPOS-AR-10-05,aptitude-reasoning,10,Trains and Boats,trains-boats,easy,must_do,Trains and Boats drill 5
+KPOS-AR-10-06,aptitude-reasoning,10,Trains and Boats,trains-boats,medium,must_do,Trains and Boats drill 6
+KPOS-AR-10-07,aptitude-reasoning,10,Trains and Boats,trains-boats,medium,should_do,Trains and Boats drill 7
+KPOS-AR-10-08,aptitude-reasoning,10,Trains and Boats,trains-boats,medium,should_do,Trains and Boats drill 8
+KPOS-AR-10-09,aptitude-reasoning,10,Trains and Boats,trains-boats,medium,should_do,Trains and Boats drill 9
+KPOS-AR-10-10,aptitude-reasoning,10,Trains and Boats,trains-boats,medium,should_do,Trains and Boats drill 10
+KPOS-AR-10-11,aptitude-reasoning,10,Trains and Boats,trains-boats,medium-hard,stretch,Trains and Boats drill 11
+KPOS-AR-10-12,aptitude-reasoning,10,Trains and Boats,trains-boats,medium-hard,stretch,Trains and Boats drill 12
+KPOS-AR-11-01,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,easy,must_do,Mixtures and Alligation drill 1
+KPOS-AR-11-02,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,easy,must_do,Mixtures and Alligation drill 2
+KPOS-AR-11-03,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,easy,must_do,Mixtures and Alligation drill 3
+KPOS-AR-11-04,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,easy,must_do,Mixtures and Alligation drill 4
+KPOS-AR-11-05,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,easy,must_do,Mixtures and Alligation drill 5
+KPOS-AR-11-06,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium,must_do,Mixtures and Alligation drill 6
+KPOS-AR-11-07,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium,should_do,Mixtures and Alligation drill 7
+KPOS-AR-11-08,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium,should_do,Mixtures and Alligation drill 8
+KPOS-AR-11-09,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium,should_do,Mixtures and Alligation drill 9
+KPOS-AR-11-10,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium,should_do,Mixtures and Alligation drill 10
+KPOS-AR-11-11,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium-hard,stretch,Mixtures and Alligation drill 11
+KPOS-AR-11-12,aptitude-reasoning,11,Mixtures and Alligation,mixtures-alligation,medium-hard,stretch,Mixtures and Alligation drill 12
+KPOS-AR-12-01,aptitude-reasoning,12,Permutation and Combination,permutation-combination,easy,must_do,Permutation and Combination drill 1
+KPOS-AR-12-02,aptitude-reasoning,12,Permutation and Combination,permutation-combination,easy,must_do,Permutation and Combination drill 2
+KPOS-AR-12-03,aptitude-reasoning,12,Permutation and Combination,permutation-combination,easy,must_do,Permutation and Combination drill 3
+KPOS-AR-12-04,aptitude-reasoning,12,Permutation and Combination,permutation-combination,easy,must_do,Permutation and Combination drill 4
+KPOS-AR-12-05,aptitude-reasoning,12,Permutation and Combination,permutation-combination,easy,must_do,Permutation and Combination drill 5
+KPOS-AR-12-06,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium,must_do,Permutation and Combination drill 6
+KPOS-AR-12-07,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium,should_do,Permutation and Combination drill 7
+KPOS-AR-12-08,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium,should_do,Permutation and Combination drill 8
+KPOS-AR-12-09,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium,should_do,Permutation and Combination drill 9
+KPOS-AR-12-10,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium,should_do,Permutation and Combination drill 10
+KPOS-AR-12-11,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium-hard,stretch,Permutation and Combination drill 11
+KPOS-AR-12-12,aptitude-reasoning,12,Permutation and Combination,permutation-combination,medium-hard,stretch,Permutation and Combination drill 12
+KPOS-AR-13-01,aptitude-reasoning,13,Probability,probability,easy,must_do,Probability drill 1
+KPOS-AR-13-02,aptitude-reasoning,13,Probability,probability,easy,must_do,Probability drill 2
+KPOS-AR-13-03,aptitude-reasoning,13,Probability,probability,easy,must_do,Probability drill 3
+KPOS-AR-13-04,aptitude-reasoning,13,Probability,probability,easy,must_do,Probability drill 4
+KPOS-AR-13-05,aptitude-reasoning,13,Probability,probability,easy,must_do,Probability drill 5
+KPOS-AR-13-06,aptitude-reasoning,13,Probability,probability,medium,must_do,Probability drill 6
+KPOS-AR-13-07,aptitude-reasoning,13,Probability,probability,medium,should_do,Probability drill 7
+KPOS-AR-13-08,aptitude-reasoning,13,Probability,probability,medium,should_do,Probability drill 8
+KPOS-AR-13-09,aptitude-reasoning,13,Probability,probability,medium,should_do,Probability drill 9
+KPOS-AR-13-10,aptitude-reasoning,13,Probability,probability,medium,should_do,Probability drill 10
+KPOS-AR-13-11,aptitude-reasoning,13,Probability,probability,medium-hard,stretch,Probability drill 11
+KPOS-AR-13-12,aptitude-reasoning,13,Probability,probability,medium-hard,stretch,Probability drill 12
+KPOS-AR-14-01,aptitude-reasoning,14,Number Series,number-series,easy,must_do,Number Series drill 1
+KPOS-AR-14-02,aptitude-reasoning,14,Number Series,number-series,easy,must_do,Number Series drill 2
+KPOS-AR-14-03,aptitude-reasoning,14,Number Series,number-series,easy,must_do,Number Series drill 3
+KPOS-AR-14-04,aptitude-reasoning,14,Number Series,number-series,easy,must_do,Number Series drill 4
+KPOS-AR-14-05,aptitude-reasoning,14,Number Series,number-series,easy,must_do,Number Series drill 5
+KPOS-AR-14-06,aptitude-reasoning,14,Number Series,number-series,medium,must_do,Number Series drill 6
+KPOS-AR-14-07,aptitude-reasoning,14,Number Series,number-series,medium,should_do,Number Series drill 7
+KPOS-AR-14-08,aptitude-reasoning,14,Number Series,number-series,medium,should_do,Number Series drill 8
+KPOS-AR-14-09,aptitude-reasoning,14,Number Series,number-series,medium,should_do,Number Series drill 9
+KPOS-AR-14-10,aptitude-reasoning,14,Number Series,number-series,medium,should_do,Number Series drill 10
+KPOS-AR-14-11,aptitude-reasoning,14,Number Series,number-series,medium-hard,stretch,Number Series drill 11
+KPOS-AR-14-12,aptitude-reasoning,14,Number Series,number-series,medium-hard,stretch,Number Series drill 12
+KPOS-AR-15-01,aptitude-reasoning,15,Coding-Decoding,coding-decoding,easy,must_do,Coding-Decoding drill 1
+KPOS-AR-15-02,aptitude-reasoning,15,Coding-Decoding,coding-decoding,easy,must_do,Coding-Decoding drill 2
+KPOS-AR-15-03,aptitude-reasoning,15,Coding-Decoding,coding-decoding,easy,must_do,Coding-Decoding drill 3
+KPOS-AR-15-04,aptitude-reasoning,15,Coding-Decoding,coding-decoding,easy,must_do,Coding-Decoding drill 4
+KPOS-AR-15-05,aptitude-reasoning,15,Coding-Decoding,coding-decoding,easy,must_do,Coding-Decoding drill 5
+KPOS-AR-15-06,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium,must_do,Coding-Decoding drill 6
+KPOS-AR-15-07,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium,should_do,Coding-Decoding drill 7
+KPOS-AR-15-08,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium,should_do,Coding-Decoding drill 8
+KPOS-AR-15-09,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium,should_do,Coding-Decoding drill 9
+KPOS-AR-15-10,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium,should_do,Coding-Decoding drill 10
+KPOS-AR-15-11,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium-hard,stretch,Coding-Decoding drill 11
+KPOS-AR-15-12,aptitude-reasoning,15,Coding-Decoding,coding-decoding,medium-hard,stretch,Coding-Decoding drill 12
+KPOS-AR-16-01,aptitude-reasoning,16,Blood Relations,blood-relations,easy,must_do,Blood Relations drill 1
+KPOS-AR-16-02,aptitude-reasoning,16,Blood Relations,blood-relations,easy,must_do,Blood Relations drill 2
+KPOS-AR-16-03,aptitude-reasoning,16,Blood Relations,blood-relations,easy,must_do,Blood Relations drill 3
+KPOS-AR-16-04,aptitude-reasoning,16,Blood Relations,blood-relations,easy,must_do,Blood Relations drill 4
+KPOS-AR-16-05,aptitude-reasoning,16,Blood Relations,blood-relations,easy,must_do,Blood Relations drill 5
+KPOS-AR-16-06,aptitude-reasoning,16,Blood Relations,blood-relations,medium,must_do,Blood Relations drill 6
+KPOS-AR-16-07,aptitude-reasoning,16,Blood Relations,blood-relations,medium,should_do,Blood Relations drill 7
+KPOS-AR-16-08,aptitude-reasoning,16,Blood Relations,blood-relations,medium,should_do,Blood Relations drill 8
+KPOS-AR-16-09,aptitude-reasoning,16,Blood Relations,blood-relations,medium,should_do,Blood Relations drill 9
+KPOS-AR-16-10,aptitude-reasoning,16,Blood Relations,blood-relations,medium,should_do,Blood Relations drill 10
+KPOS-AR-16-11,aptitude-reasoning,16,Blood Relations,blood-relations,medium-hard,stretch,Blood Relations drill 11
+KPOS-AR-16-12,aptitude-reasoning,16,Blood Relations,blood-relations,medium-hard,stretch,Blood Relations drill 12
+KPOS-AR-17-01,aptitude-reasoning,17,Direction Sense,direction-sense,easy,must_do,Direction Sense drill 1
+KPOS-AR-17-02,aptitude-reasoning,17,Direction Sense,direction-sense,easy,must_do,Direction Sense drill 2
+KPOS-AR-17-03,aptitude-reasoning,17,Direction Sense,direction-sense,easy,must_do,Direction Sense drill 3
+KPOS-AR-17-04,aptitude-reasoning,17,Direction Sense,direction-sense,easy,must_do,Direction Sense drill 4
+KPOS-AR-17-05,aptitude-reasoning,17,Direction Sense,direction-sense,easy,must_do,Direction Sense drill 5
+KPOS-AR-17-06,aptitude-reasoning,17,Direction Sense,direction-sense,medium,must_do,Direction Sense drill 6
+KPOS-AR-17-07,aptitude-reasoning,17,Direction Sense,direction-sense,medium,should_do,Direction Sense drill 7
+KPOS-AR-17-08,aptitude-reasoning,17,Direction Sense,direction-sense,medium,should_do,Direction Sense drill 8
+KPOS-AR-17-09,aptitude-reasoning,17,Direction Sense,direction-sense,medium,should_do,Direction Sense drill 9
+KPOS-AR-17-10,aptitude-reasoning,17,Direction Sense,direction-sense,medium,should_do,Direction Sense drill 10
+KPOS-AR-17-11,aptitude-reasoning,17,Direction Sense,direction-sense,medium-hard,stretch,Direction Sense drill 11
+KPOS-AR-17-12,aptitude-reasoning,17,Direction Sense,direction-sense,medium-hard,stretch,Direction Sense drill 12
+KPOS-AR-18-01,aptitude-reasoning,18,Syllogisms,syllogisms,easy,must_do,Syllogisms drill 1
+KPOS-AR-18-02,aptitude-reasoning,18,Syllogisms,syllogisms,easy,must_do,Syllogisms drill 2
+KPOS-AR-18-03,aptitude-reasoning,18,Syllogisms,syllogisms,easy,must_do,Syllogisms drill 3
+KPOS-AR-18-04,aptitude-reasoning,18,Syllogisms,syllogisms,easy,must_do,Syllogisms drill 4
+KPOS-AR-18-05,aptitude-reasoning,18,Syllogisms,syllogisms,easy,must_do,Syllogisms drill 5
+KPOS-AR-18-06,aptitude-reasoning,18,Syllogisms,syllogisms,medium,must_do,Syllogisms drill 6
+KPOS-AR-18-07,aptitude-reasoning,18,Syllogisms,syllogisms,medium,should_do,Syllogisms drill 7
+KPOS-AR-18-08,aptitude-reasoning,18,Syllogisms,syllogisms,medium,should_do,Syllogisms drill 8
+KPOS-AR-18-09,aptitude-reasoning,18,Syllogisms,syllogisms,medium,should_do,Syllogisms drill 9
+KPOS-AR-18-10,aptitude-reasoning,18,Syllogisms,syllogisms,medium,should_do,Syllogisms drill 10
+KPOS-AR-18-11,aptitude-reasoning,18,Syllogisms,syllogisms,medium-hard,stretch,Syllogisms drill 11
+KPOS-AR-18-12,aptitude-reasoning,18,Syllogisms,syllogisms,medium-hard,stretch,Syllogisms drill 12
+KPOS-AR-19-01,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,easy,must_do,Seating Arrangement drill 1
+KPOS-AR-19-02,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,easy,must_do,Seating Arrangement drill 2
+KPOS-AR-19-03,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,easy,must_do,Seating Arrangement drill 3
+KPOS-AR-19-04,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,easy,must_do,Seating Arrangement drill 4
+KPOS-AR-19-05,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,easy,must_do,Seating Arrangement drill 5
+KPOS-AR-19-06,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium,must_do,Seating Arrangement drill 6
+KPOS-AR-19-07,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium,should_do,Seating Arrangement drill 7
+KPOS-AR-19-08,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium,should_do,Seating Arrangement drill 8
+KPOS-AR-19-09,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium,should_do,Seating Arrangement drill 9
+KPOS-AR-19-10,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium,should_do,Seating Arrangement drill 10
+KPOS-AR-19-11,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium-hard,stretch,Seating Arrangement drill 11
+KPOS-AR-19-12,aptitude-reasoning,19,Seating Arrangement,seating-arrangement,medium-hard,stretch,Seating Arrangement drill 12
+KPOS-AR-20-01,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,easy,must_do,Data Interpretation: Tables drill 1
+KPOS-AR-20-02,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,easy,must_do,Data Interpretation: Tables drill 2
+KPOS-AR-20-03,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,easy,must_do,Data Interpretation: Tables drill 3
+KPOS-AR-20-04,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,easy,must_do,Data Interpretation: Tables drill 4
+KPOS-AR-20-05,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,easy,must_do,Data Interpretation: Tables drill 5
+KPOS-AR-20-06,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium,must_do,Data Interpretation: Tables drill 6
+KPOS-AR-20-07,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium,should_do,Data Interpretation: Tables drill 7
+KPOS-AR-20-08,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium,should_do,Data Interpretation: Tables drill 8
+KPOS-AR-20-09,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium,should_do,Data Interpretation: Tables drill 9
+KPOS-AR-20-10,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium,should_do,Data Interpretation: Tables drill 10
+KPOS-AR-20-11,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium-hard,stretch,Data Interpretation: Tables drill 11
+KPOS-AR-20-12,aptitude-reasoning,20,Data Interpretation: Tables,data-interpretation-tables,medium-hard,stretch,Data Interpretation: Tables drill 12
+KPOS-AR-21-01,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,easy,must_do,Data Interpretation: Charts drill 1
+KPOS-AR-21-02,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,easy,must_do,Data Interpretation: Charts drill 2
+KPOS-AR-21-03,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,easy,must_do,Data Interpretation: Charts drill 3
+KPOS-AR-21-04,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,easy,must_do,Data Interpretation: Charts drill 4
+KPOS-AR-21-05,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,easy,must_do,Data Interpretation: Charts drill 5
+KPOS-AR-21-06,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium,must_do,Data Interpretation: Charts drill 6
+KPOS-AR-21-07,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium,should_do,Data Interpretation: Charts drill 7
+KPOS-AR-21-08,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium,should_do,Data Interpretation: Charts drill 8
+KPOS-AR-21-09,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium,should_do,Data Interpretation: Charts drill 9
+KPOS-AR-21-10,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium,should_do,Data Interpretation: Charts drill 10
+KPOS-AR-21-11,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium-hard,stretch,Data Interpretation: Charts drill 11
+KPOS-AR-21-12,aptitude-reasoning,21,Data Interpretation: Charts,data-interpretation-charts,medium-hard,stretch,Data Interpretation: Charts drill 12
+KPOS-AR-22-01,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,easy,must_do,Clocks and Calendars drill 1
+KPOS-AR-22-02,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,easy,must_do,Clocks and Calendars drill 2
+KPOS-AR-22-03,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,easy,must_do,Clocks and Calendars drill 3
+KPOS-AR-22-04,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,easy,must_do,Clocks and Calendars drill 4
+KPOS-AR-22-05,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,easy,must_do,Clocks and Calendars drill 5
+KPOS-AR-22-06,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium,must_do,Clocks and Calendars drill 6
+KPOS-AR-22-07,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium,should_do,Clocks and Calendars drill 7
+KPOS-AR-22-08,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium,should_do,Clocks and Calendars drill 8
+KPOS-AR-22-09,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium,should_do,Clocks and Calendars drill 9
+KPOS-AR-22-10,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium,should_do,Clocks and Calendars drill 10
+KPOS-AR-22-11,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium-hard,stretch,Clocks and Calendars drill 11
+KPOS-AR-22-12,aptitude-reasoning,22,Clocks and Calendars,clocks-calendars,medium-hard,stretch,Clocks and Calendars drill 12
+KPOS-AR-23-01,aptitude-reasoning,23,Ages,ages,easy,must_do,Ages drill 1
+KPOS-AR-23-02,aptitude-reasoning,23,Ages,ages,easy,must_do,Ages drill 2
+KPOS-AR-23-03,aptitude-reasoning,23,Ages,ages,easy,must_do,Ages drill 3
+KPOS-AR-23-04,aptitude-reasoning,23,Ages,ages,easy,must_do,Ages drill 4
+KPOS-AR-23-05,aptitude-reasoning,23,Ages,ages,easy,must_do,Ages drill 5
+KPOS-AR-23-06,aptitude-reasoning,23,Ages,ages,medium,must_do,Ages drill 6
+KPOS-AR-23-07,aptitude-reasoning,23,Ages,ages,medium,should_do,Ages drill 7
+KPOS-AR-23-08,aptitude-reasoning,23,Ages,ages,medium,should_do,Ages drill 8
+KPOS-AR-23-09,aptitude-reasoning,23,Ages,ages,medium,should_do,Ages drill 9
+KPOS-AR-23-10,aptitude-reasoning,23,Ages,ages,medium,should_do,Ages drill 10
+KPOS-AR-23-11,aptitude-reasoning,23,Ages,ages,medium-hard,stretch,Ages drill 11
+KPOS-AR-23-12,aptitude-reasoning,23,Ages,ages,medium-hard,stretch,Ages drill 12
+KPOS-AR-24-01,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,easy,must_do,Simplification and Approximation drill 1
+KPOS-AR-24-02,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,easy,must_do,Simplification and Approximation drill 2
+KPOS-AR-24-03,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,easy,must_do,Simplification and Approximation drill 3
+KPOS-AR-24-04,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,easy,must_do,Simplification and Approximation drill 4
+KPOS-AR-24-05,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,easy,must_do,Simplification and Approximation drill 5
+KPOS-AR-24-06,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium,must_do,Simplification and Approximation drill 6
+KPOS-AR-24-07,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium,should_do,Simplification and Approximation drill 7
+KPOS-AR-24-08,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium,should_do,Simplification and Approximation drill 8
+KPOS-AR-24-09,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium,should_do,Simplification and Approximation drill 9
+KPOS-AR-24-10,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium,should_do,Simplification and Approximation drill 10
+KPOS-AR-24-11,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium-hard,stretch,Simplification and Approximation drill 11
+KPOS-AR-24-12,aptitude-reasoning,24,Simplification and Approximation,simplification-approximation,medium-hard,stretch,Simplification and Approximation drill 12
+KPOS-AR-25-01,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,easy,must_do,Verbal Reasoning Basics drill 1
+KPOS-AR-25-02,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,easy,must_do,Verbal Reasoning Basics drill 2
+KPOS-AR-25-03,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,easy,must_do,Verbal Reasoning Basics drill 3
+KPOS-AR-25-04,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,easy,must_do,Verbal Reasoning Basics drill 4
+KPOS-AR-25-05,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,easy,must_do,Verbal Reasoning Basics drill 5
+KPOS-AR-25-06,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium,must_do,Verbal Reasoning Basics drill 6
+KPOS-AR-25-07,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium,should_do,Verbal Reasoning Basics drill 7
+KPOS-AR-25-08,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium,should_do,Verbal Reasoning Basics drill 8
+KPOS-AR-25-09,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium,should_do,Verbal Reasoning Basics drill 9
+KPOS-AR-25-10,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium,should_do,Verbal Reasoning Basics drill 10
+KPOS-AR-25-11,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium-hard,stretch,Verbal Reasoning Basics drill 11
+KPOS-AR-25-12,aptitude-reasoning,25,Verbal Reasoning Basics,verbal-reasoning,medium-hard,stretch,Verbal Reasoning Basics drill 12
+KPOS-AR-26-01,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,easy,must_do,Mixed Arithmetic Drill drill 1
+KPOS-AR-26-02,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,easy,must_do,Mixed Arithmetic Drill drill 2
+KPOS-AR-26-03,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,easy,must_do,Mixed Arithmetic Drill drill 3
+KPOS-AR-26-04,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,easy,must_do,Mixed Arithmetic Drill drill 4
+KPOS-AR-26-05,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,easy,must_do,Mixed Arithmetic Drill drill 5
+KPOS-AR-26-06,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium,must_do,Mixed Arithmetic Drill drill 6
+KPOS-AR-26-07,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium,should_do,Mixed Arithmetic Drill drill 7
+KPOS-AR-26-08,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium,should_do,Mixed Arithmetic Drill drill 8
+KPOS-AR-26-09,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium,should_do,Mixed Arithmetic Drill drill 9
+KPOS-AR-26-10,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium,should_do,Mixed Arithmetic Drill drill 10
+KPOS-AR-26-11,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium-hard,stretch,Mixed Arithmetic Drill drill 11
+KPOS-AR-26-12,aptitude-reasoning,26,Mixed Arithmetic Drill,mixed-arithmetic,medium-hard,stretch,Mixed Arithmetic Drill drill 12
+KPOS-AR-27-01,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,easy,must_do,Mixed Reasoning Drill drill 1
+KPOS-AR-27-02,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,easy,must_do,Mixed Reasoning Drill drill 2
+KPOS-AR-27-03,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,easy,must_do,Mixed Reasoning Drill drill 3
+KPOS-AR-27-04,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,easy,must_do,Mixed Reasoning Drill drill 4
+KPOS-AR-27-05,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,easy,must_do,Mixed Reasoning Drill drill 5
+KPOS-AR-27-06,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium,must_do,Mixed Reasoning Drill drill 6
+KPOS-AR-27-07,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium,should_do,Mixed Reasoning Drill drill 7
+KPOS-AR-27-08,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium,should_do,Mixed Reasoning Drill drill 8
+KPOS-AR-27-09,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium,should_do,Mixed Reasoning Drill drill 9
+KPOS-AR-27-10,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium,should_do,Mixed Reasoning Drill drill 10
+KPOS-AR-27-11,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium-hard,stretch,Mixed Reasoning Drill drill 11
+KPOS-AR-27-12,aptitude-reasoning,27,Mixed Reasoning Drill,mixed-reasoning,medium-hard,stretch,Mixed Reasoning Drill drill 12
+KPOS-AR-28-01,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,easy,must_do,Aptitude Mock 1 drill 1
+KPOS-AR-28-02,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,easy,must_do,Aptitude Mock 1 drill 2
+KPOS-AR-28-03,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,easy,must_do,Aptitude Mock 1 drill 3
+KPOS-AR-28-04,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,easy,must_do,Aptitude Mock 1 drill 4
+KPOS-AR-28-05,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,easy,must_do,Aptitude Mock 1 drill 5
+KPOS-AR-28-06,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium,must_do,Aptitude Mock 1 drill 6
+KPOS-AR-28-07,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium,should_do,Aptitude Mock 1 drill 7
+KPOS-AR-28-08,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium,should_do,Aptitude Mock 1 drill 8
+KPOS-AR-28-09,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium,should_do,Aptitude Mock 1 drill 9
+KPOS-AR-28-10,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium,should_do,Aptitude Mock 1 drill 10
+KPOS-AR-28-11,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium-hard,stretch,Aptitude Mock 1 drill 11
+KPOS-AR-28-12,aptitude-reasoning,28,Aptitude Mock 1,aptitude-mock-1,medium-hard,stretch,Aptitude Mock 1 drill 12
+KPOS-AR-29-01,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,easy,must_do,Aptitude Mock 2 drill 1
+KPOS-AR-29-02,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,easy,must_do,Aptitude Mock 2 drill 2
+KPOS-AR-29-03,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,easy,must_do,Aptitude Mock 2 drill 3
+KPOS-AR-29-04,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,easy,must_do,Aptitude Mock 2 drill 4
+KPOS-AR-29-05,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,easy,must_do,Aptitude Mock 2 drill 5
+KPOS-AR-29-06,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium,must_do,Aptitude Mock 2 drill 6
+KPOS-AR-29-07,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium,should_do,Aptitude Mock 2 drill 7
+KPOS-AR-29-08,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium,should_do,Aptitude Mock 2 drill 8
+KPOS-AR-29-09,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium,should_do,Aptitude Mock 2 drill 9
+KPOS-AR-29-10,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium,should_do,Aptitude Mock 2 drill 10
+KPOS-AR-29-11,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium-hard,stretch,Aptitude Mock 2 drill 11
+KPOS-AR-29-12,aptitude-reasoning,29,Aptitude Mock 2,aptitude-mock-2,medium-hard,stretch,Aptitude Mock 2 drill 12
+KPOS-AR-30-01,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,easy,must_do,Final Aptitude Review drill 1
+KPOS-AR-30-02,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,easy,must_do,Final Aptitude Review drill 2
+KPOS-AR-30-03,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,easy,must_do,Final Aptitude Review drill 3
+KPOS-AR-30-04,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,easy,must_do,Final Aptitude Review drill 4
+KPOS-AR-30-05,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,easy,must_do,Final Aptitude Review drill 5
+KPOS-AR-30-06,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium,must_do,Final Aptitude Review drill 6
+KPOS-AR-30-07,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium,should_do,Final Aptitude Review drill 7
+KPOS-AR-30-08,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium,should_do,Final Aptitude Review drill 8
+KPOS-AR-30-09,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium,should_do,Final Aptitude Review drill 9
+KPOS-AR-30-10,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium,should_do,Final Aptitude Review drill 10
+KPOS-AR-30-11,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium-hard,stretch,Final Aptitude Review drill 11
+KPOS-AR-30-12,aptitude-reasoning,30,Final Aptitude Review,final-aptitude-review,medium-hard,stretch,Final Aptitude Review drill 12

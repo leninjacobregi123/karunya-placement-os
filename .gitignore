@@ -1,0 +1,6 @@
+
+# KPOS auto-generated progress — never commit
+.kpos/
+*.log
+*.pyc
+__pycache__/

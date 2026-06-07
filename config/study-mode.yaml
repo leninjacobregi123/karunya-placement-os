@@ -1,0 +1,13 @@
+# KPOS Study Mode Configuration
+# This file lets you choose your learning path
+
+current: coding
+# Options: all, coding, aptitude
+# - all: Both coding and aptitude (full prep)
+# - coding: Only coding + DSA
+# - aptitude: Only aptitude + reasoning
+
+# Set to your preferred mode
+# - coding
+# - aptitude
+# - all

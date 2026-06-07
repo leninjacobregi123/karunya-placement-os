@@ -1,0 +1,31 @@
+{
+  "title": "String Methods",
+  "day": "8-string-methods",
+  "exercises": [
+    {
+      "num": 1,
+      "answer": "Exercise 1 solution for String Methods",
+      "concept": "Basic understanding"
+    },
+    {
+      "num": 2,
+      "answer": "Exercise 2 solution for String Methods",
+      "concept": "Application"
+    },
+    {
+      "num": 3,
+      "answer": "Exercise 3 solution for String Methods",
+      "concept": "Practice"
+    },
+    {
+      "num": 4,
+      "answer": "Exercise 4 solution for String Methods",
+      "concept": "Challenge"
+    },
+    {
+      "num": 5,
+      "answer": "Exercise 5 solution for String Methods",
+      "concept": "Summary"
+    }
+  ]
+}

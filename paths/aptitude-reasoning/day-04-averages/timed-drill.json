@@ -1,0 +1,22 @@
+{
+  "day": 4,
+  "topic": "Averages",
+  "time_limit_seconds": 300,
+  "questions": [
+    {
+      "q": "Average of 10, 20, 30, 40, 50:",
+      "choices": ["20", "30", "40", "50"],
+      "answer": 1
+    },
+    {
+      "q": "Average of first 5 odd numbers:",
+      "choices": ["3", "5", "7", "9"],
+      "answer": 1
+    },
+    {
+      "q": "If average of 4 numbers is 15 and one number is 10, what is the average of remaining 3?",
+      "choices": ["14", "15", "16", "17"],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "day": 1,
+  "topic": "Number Basics",
+  "questions": [
+    {
+      "q": "Which number is divisible by both 4 and 6?",
+      "choices": ["22", "24", "28", "32"],
+      "answer": 1,
+      "explanation": "24 ÷ 4 = 6 and 24 ÷ 6 = 4. 24 is the smallest number divisible by both."
+    },
+    {
+      "q": "HCF of 36 and 48 is:",
+      "choices": ["6", "12", "8", "24"],
+      "answer": 1,
+      "explanation": "36 = 2² × 3², 48 = 2⁴ × 3. Common factors: 2² × 3 = 12"
+    },
+    {
+      "q": "LCM of 12 and 18 is:",
+      "choices": ["6", "36", "72", "24"],
+      "answer": 1,
+      "explanation": "12 = 2² × 3, 18 = 2 × 3². LCM = 2² × 3² = 36"
+    },
+    {
+      "q": "Is 161 a prime number?",
+      "choices": ["Yes", "No — divisible by 7", "No — divisible by 3", "No — divisible by 9"],
+      "answer": 1,
+      "explanation": "161 = 7 × 23. Not prime."
+    },
+    {
+      "q": "Which divisibility rule checks if a number is divisible by 9?",
+      "choices": ["Last digit is 9", "Sum of digits is 9", "Last digit is 0 or 9", "Sum of digits is divisible by 9"],
+      "answer": 3,
+      "explanation": "A number is divisible by 9 if sum of its digits is divisible by 9. E.g., 126 → 1+2+6=9"
+    }
+  ]
+}

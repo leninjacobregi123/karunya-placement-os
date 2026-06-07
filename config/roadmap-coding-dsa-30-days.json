@@ -1,0 +1,212 @@
+[
+  {
+    "day": 1,
+    "topic": "Python Diagnostic",
+    "slug": "python-diagnostic",
+    "module_ref": "coding-foundations/python-diagnostic",
+    "time_minutes": 30
+  },
+  {
+    "day": 2,
+    "topic": "Dry Run Thinking",
+    "slug": "dry-run-thinking",
+    "module_ref": "coding-foundations/dry-run-thinking",
+    "time_minutes": 30
+  },
+  {
+    "day": 3,
+    "topic": "Conditions Loops Functions",
+    "slug": "conditions-loops-functions",
+    "module_ref": "coding-foundations/conditions-loops-functions",
+    "time_minutes": 30
+  },
+  {
+    "day": 4,
+    "topic": "Lists Strings",
+    "slug": "lists-strings",
+    "module_ref": "coding-foundations/lists-strings",
+    "time_minutes": 30
+  },
+  {
+    "day": 5,
+    "topic": "Dictionaries Sets",
+    "slug": "dictionaries-sets",
+    "module_ref": "coding-foundations/dictionaries-sets",
+    "time_minutes": 30
+  },
+  {
+    "day": 6,
+    "topic": "Time Complexity",
+    "slug": "time-complexity",
+    "module_ref": "coding-foundations/time-complexity",
+    "time_minutes": 30
+  },
+  {
+    "day": 7,
+    "topic": "Arrays Frequency",
+    "slug": "arrays-frequency",
+    "module_ref": "dsa-foundations/arrays-frequency",
+    "time_minutes": 30
+  },
+  {
+    "day": 8,
+    "topic": "Prefix Sum",
+    "slug": "prefix-sum",
+    "module_ref": "dsa-foundations/prefix-sum",
+    "time_minutes": 30
+  },
+  {
+    "day": 9,
+    "topic": "Two Pointers",
+    "slug": "two-pointers",
+    "module_ref": "dsa-foundations/two-pointers",
+    "time_minutes": 30
+  },
+  {
+    "day": 10,
+    "topic": "Sliding Window",
+    "slug": "sliding-window",
+    "module_ref": "dsa-foundations/sliding-window",
+    "time_minutes": 30
+  },
+  {
+    "day": 11,
+    "topic": "Stack",
+    "slug": "stack",
+    "module_ref": "dsa-foundations/stack",
+    "time_minutes": 30
+  },
+  {
+    "day": 12,
+    "topic": "Queue Deque",
+    "slug": "queue-deque",
+    "module_ref": "dsa-foundations/queue-deque",
+    "time_minutes": 30
+  },
+  {
+    "day": 13,
+    "topic": "Sorting Custom Keys",
+    "slug": "sorting-custom-keys",
+    "module_ref": "dsa-foundations/sorting-custom-keys",
+    "time_minutes": 30
+  },
+  {
+    "day": 14,
+    "topic": "Binary Search",
+    "slug": "binary-search",
+    "module_ref": "dsa-foundations/binary-search",
+    "time_minutes": 30
+  },
+  {
+    "day": 15,
+    "topic": "Linked Lists",
+    "slug": "linked-lists",
+    "module_ref": "dsa-foundations/linked-lists",
+    "time_minutes": 30
+  },
+  {
+    "day": 16,
+    "topic": "Recursion",
+    "slug": "recursion",
+    "module_ref": "dsa-foundations/recursion",
+    "time_minutes": 30
+  },
+  {
+    "day": 17,
+    "topic": "Backtracking",
+    "slug": "backtracking",
+    "module_ref": "dsa-foundations/backtracking",
+    "time_minutes": 30
+  },
+  {
+    "day": 18,
+    "topic": "Trees Traversal",
+    "slug": "trees-traversal",
+    "module_ref": "dsa-foundations/trees-traversal",
+    "time_minutes": 30
+  },
+  {
+    "day": 19,
+    "topic": "Tree Patterns",
+    "slug": "tree-patterns",
+    "module_ref": "dsa-foundations/tree-patterns",
+    "time_minutes": 30
+  },
+  {
+    "day": 20,
+    "topic": "Heap Priority Queue",
+    "slug": "heap-priority-queue",
+    "module_ref": "dsa-foundations/heap-priority-queue",
+    "time_minutes": 30
+  },
+  {
+    "day": 21,
+    "topic": "Trie",
+    "slug": "trie",
+    "module_ref": "dsa-foundations/trie",
+    "time_minutes": 30
+  },
+  {
+    "day": 22,
+    "topic": "Graph Representation",
+    "slug": "graph-representation",
+    "module_ref": "dsa-foundations/graph-representation",
+    "time_minutes": 30
+  },
+  {
+    "day": 23,
+    "topic": "Graph Bfs Dfs",
+    "slug": "graph-bfs-dfs",
+    "module_ref": "dsa-foundations/graph-bfs-dfs",
+    "time_minutes": 30
+  },
+  {
+    "day": 24,
+    "topic": "Dp Intuition",
+    "slug": "dp-intuition",
+    "module_ref": "dsa-foundations/dp-intuition",
+    "time_minutes": 30
+  },
+  {
+    "day": 25,
+    "topic": "Dp 1D",
+    "slug": "dp-1d",
+    "module_ref": "dsa-foundations/dp-1d",
+    "time_minutes": 30
+  },
+  {
+    "day": 26,
+    "topic": "Dp 2D",
+    "slug": "dp-2d",
+    "module_ref": "dsa-foundations/dp-2d",
+    "time_minutes": 30
+  },
+  {
+    "day": 27,
+    "topic": "Greedy Basics",
+    "slug": "greedy-basics",
+    "module_ref": "dsa-foundations/greedy-basics",
+    "time_minutes": 30
+  },
+  {
+    "day": 28,
+    "topic": "Mixed Pattern Recognition",
+    "slug": "mixed-pattern-recognition",
+    "module_ref": null,
+    "time_minutes": 30
+  },
+  {
+    "day": 29,
+    "topic": "Timed Coding Mock",
+    "slug": "timed-coding-mock",
+    "module_ref": null,
+    "time_minutes": 30
+  },
+  {
+    "day": 30,
+    "topic": "Final Coding Review",
+    "slug": "final-coding-review",
+    "module_ref": null,
+    "time_minutes": 30
+  }
+]

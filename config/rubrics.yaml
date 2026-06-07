@@ -1,0 +1,38 @@
+# Assessment rubrics
+mastery_levels:
+  novice:
+    description: "Just starting — needs hints for most problems"
+    min_accuracy: 0
+    max_accuracy: 40
+  developing:
+    description: "Getting the idea — can solve with guidance"
+    min_accuracy: 41
+    max_accuracy: 70
+  competent:
+    description: "Solid — solves independently, occasional edge-case misses"
+    min_accuracy: 71
+    max_accuracy: 90
+  proficient:
+    description: "Strong — solves quickly, catches edge cases"
+    min_accuracy: 91
+    max_accuracy: 100
+
+badges:
+  - name: First Coding Day Completed
+    condition: coding_days_completed >= 1
+  - name: First Aptitude Day Completed
+    condition: aptitude_days_completed >= 1
+  - name: Week One Complete
+    condition: days_completed >= 7
+  - name: Halfway Hero
+    condition: days_completed >= 15
+  - name: Sprint Champion
+    condition: days_completed >= 30
+  - name: 10 Tests Passed
+    condition: tests_passed >= 10
+  - name: 50 Tests Passed
+    condition: tests_passed >= 50
+  - name: Reflection: 5 Mistakes Logged
+    condition: mistake_count >= 5
+  - name: "3-Day Streak"
+    condition: streak >= 3

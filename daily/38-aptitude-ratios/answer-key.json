@@ -1,0 +1,37 @@
+{
+  "title": "Ratios and Proportions",
+  "description": "Learn to compare quantities using ratios, simplify them, and solve problems involving proportions.",
+  "day": 8,
+  "exercises": [
+    {
+      "num": 1,
+      "test": "Simplify the ratio 24:36 to its simplest form.",
+      "solution": "GCD(24,36) = 12. Divide both by 12: 24/12 : 36/12 = 2 : 3",
+      "concept": "Divide both terms of a ratio by their Greatest Common Divisor to simplify."
+    },
+    {
+      "num": 2,
+      "test": "If a:b = 5:3 and a = 25, find b.",
+      "solution": "5/3 = 25/b → Cross multiply: 5b = 75 → b = 15",
+      "concept": "In a proportion a:b = c:d, the cross products are equal: a × d = b × c"
+    },
+    {
+      "num": 3,
+      "test": "Two numbers are in ratio 3:4 and their sum is 63. Find the larger number.",
+      "solution": "Let numbers be 3x and 4x. 3x + 4x = 63 → 7x = 63 → x = 9. Larger = 4 × 9 = 36",
+      "concept": "Use a variable (x) to represent each ratio part. Total parts × x = actual total."
+    },
+    {
+      "num": 4,
+      "test": "If x:12 = 9:x, find x.",
+      "solution": "x/12 = 9/x → Cross multiply: x² = 108 → x = √108 = 6√3 ≈ 10.39",
+      "concept": "For continued proportion a:b::c:d: use ad = bc to find the unknown."
+    },
+    {
+      "num": 5,
+      "test": "A milk mixture has milk-to-water ratio 5:3. If total mixture is 40 liters, find the amount of water.",
+      "solution": "Milk = 5x, Water = 3x. Total = 5x + 3x = 8x = 40 → x = 5. Water = 3 × 5 = 15 liters",
+      "concept": "Each share of the ratio = (ratio part / total ratio parts) × actual total."
+    }
+  ]
+}

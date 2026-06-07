@@ -1,0 +1,23 @@
+# KPOS path configuration
+paths:
+  coding_dsa:
+    dir: paths/coding-dsa
+    modules_dir: modules
+    question_bank: question-bank/self-contained/coding-dsa
+    total_days: 30
+    time_per_day_minutes: 30
+  aptitude_reasoning:
+    dir: paths/aptitude-reasoning
+    modules_dir: modules
+    question_bank: question-bank/self-contained/aptitude-reasoning
+    total_days: 30
+    time_per_day_minutes: 30
+  full:
+    description: "Combines coding-dsa and aptitude-reasoning for the same day"
+    total_days: 30
+    time_per_day_minutes: 60
+
+progress:
+  file: progress/progress.json
+  events: progress/events.jsonl
+  reports: progress/reports

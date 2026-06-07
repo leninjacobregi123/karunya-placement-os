@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "topic": "Conditions, Loops, and Functions",
+  "slug": "conditions-loops-functions",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "Write a one-liner: 'Given a number n, print Positive, Negative, or Zero.' Do it with if/elif/else in one line using a ternary expression.",
+  "read": "modules/coding-foundations/conditions-loops-functions/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Placement FizzBuzz",
+      "file": "code/starter.py",
+      "signature": "placement_fizzbuzz(n)"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

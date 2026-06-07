@@ -1,0 +1,10 @@
+{
+  "level": 1,
+  "hint": "Think about what Python command displays output to the screen. Python has a built-in function specifically for showing information to the user.",
+  "socratic_questions": [
+    "What does Python provide to show something to the user?",
+    "What is the name of that function and how do you call it?",
+    "What format does the text need to be in when passed as an argument?"
+  ],
+  "when_to_use": "Use when you understand the concept but need guidance on approach"
+}

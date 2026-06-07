@@ -1,0 +1,49 @@
+{
+  "day": 5,
+  "topic": "Profit and Loss",
+  "slug": "profit-loss",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "If CP = Rs 250 and SP = Rs 300, what is the profit and profit%? Then: if CP = Rs 500 and profit% = 12%, what is the SP?",
+  "read": "README.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Cycle Transaction Profit Calculator",
+      "description": "A dealer buys a bicycle for Rs 2,500 and sells it at a 12% profit. Write a function that computes the SP and profit amount. Then simulate: if he had sold it at a 5% loss instead, what would the SP and loss amount be?",
+      "file": "code/starter.py",
+      "signature": "compute_profit_loss(cp, profit_or_loss_pct) and compute_sp_from_cp(cp, pct, is_profit=True)"
+    },
+    {
+      "type": "must_do",
+      "title": "Dishonest Shopkeeper Weight Cheat",
+      "description": "A vendor claims to sell rice at cost price but uses a weighing scale that shows 1 kg while actually showing 920 gms. Write a function to compute the vendor's actual profit%. Then simulate: if the real CP of rice is Rs 60/kg, what revenue and profit does he make on each '1 kg' sold?",
+      "file": "code/starter.py",
+      "signature": "dishonest_profit%_error_weight%_cp_per_kg%_actual_weight_sells_as()"
+    },
+    {
+      "type": "must_do",
+      "title": "Successive Chain of Sales",
+      "description": "Goods pass through a chain: Manufacturer → Agent (20% profit) → Wholesaler (15% profit) → Retailer (10% loss). If the manufacturer's CP was Rs 5,000, write a function to compute the final SP. Then: what is the overall % change from the original CP?",
+      "file": "code/starter.py",
+      "signature": "chain_sale(cp, markup_chain) and overall_percent_change(original_cp, final_sp)"
+    },
+    {
+      "type": "bonus",
+      "title": "Discount Stacking Comparison",
+      "description": "An item has MP = Rs 2,000. Option A: two successive discounts of 15% each. Option B: a single discount of 28%. Write a function to compute the SP under both options and determine which gives a better deal to the buyer. Return the difference in SP.",
+      "file": "code/starter.py",
+      "signature": "compare_discount_options(mp, discount_a_first, discount_a_second, discount_b_flat)"
+    },
+    {
+      "type": "bonus",
+      "title": "Recovery After Loss",
+      "description": "A shopkeeper sells two items for Rs 1,200 each. On one item he gains 20% and on the other he loses 20%. Write a function to compute the CP of each item, and then determine the net profit or loss on the whole transaction. Was it a loss despite equal SPs?",
+      "file": "code/starter.py",
+      "signature": "net_result_on_equal_sp(sp, gain_pct, loss_pct)"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

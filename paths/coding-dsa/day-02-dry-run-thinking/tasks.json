@@ -1,0 +1,20 @@
+{
+  "day": 2,
+  "topic": "Dry Run Thinking",
+  "slug": "dry-run-thinking",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "Look at this code. What does it print? Trace it on paper:\n```python\nx = 10\nfor i in range(3):\n    x = x + i\nprint(x)\n```",
+  "read": "modules/coding-foundations/dry-run-thinking/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Trace and verify",
+      "file": "code/starter.py",
+      "signature": "execute_and_verify(code_snippet, expected)"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

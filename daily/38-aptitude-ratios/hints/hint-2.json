@@ -1,0 +1,10 @@
+{
+  "hint": "What concept or idea from this day is giving you trouble? Think about the underlying principle rather than the specific numbers or code.",
+  "when_to_use": "Use when feeling stuck on an exercise",
+  "socratic_questions": [
+    "What do you already know that might help?",
+    "Which part of the problem is unclear?",
+    "Can you break this down into smaller steps?"
+  ],
+  "level": 2
+}

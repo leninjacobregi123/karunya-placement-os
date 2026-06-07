@@ -1,0 +1,9 @@
+{
+  "level": 2,
+  "hint": "The key is understanding what each type does and what operations are allowed.",
+  "socratic_questions": [
+    "What tells you a value is an int versus a float?",
+    "What happens when you add a string and an int?",
+    "Which function would convert True to an integer?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "when_to_help": [
+    "Student confused about number sets",
+    "Difficulty with classifications"
+  ],
+  "key_concepts": [
+    {
+      "concept": "Natural numbers",
+      "explanation": "Starting from 1: {1,2,3,...}"
+    },
+    {
+      "concept": "Whole numbers",
+      "explanation": "Natural numbers plus zero: {0,1,2,3,...}"
+    },
+    {
+      "concept": "Integers",
+      "explanation": "Positive, negative, and zero: {...,-2,-1,0,1,2,...}"
+    },
+    {
+      "concept": "Rational numbers",
+      "explanation": "Can be written as p/q where q \u2260 0"
+    },
+    {
+      "concept": "Irrational numbers",
+      "explanation": "Cannot be written as fraction: \u221a2, \u03c0, e"
+    }
+  ],
+  "pro_tips": [
+    "Use number line to visualize",
+    "Not all numbers fit in one category",
+    "Some numbers belong to multiple sets"
+  ]
+}

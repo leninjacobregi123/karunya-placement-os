@@ -1,0 +1,61 @@
+{
+  "day": 3,
+  "topic": "Conditions, Loops, and Functions",
+  "questions": [
+    {
+      "question": "elif checks a condition only when:",
+      "choices": [
+        "all of the above",
+        "the previous if was False",
+        "it is the last condition",
+        "the program starts"
+      ],
+      "answer": 1,
+      "explanation": "elif (else if) only runs if all previous conditions in the chain were False."
+    },
+    {
+      "question": "for i in range(0, 10, 3) produces values:",
+      "choices": [
+        "0, 3, 6, 9",
+        "0, 3, 6, 9, 12",
+        "1, 4, 7, 10",
+        "3, 6, 9"
+      ],
+      "answer": 0,
+      "explanation": "range(start, stop, step). Start=0, stop before 10, step=3. Values: 0,3,6,9."
+    },
+    {
+      "question": "What keyword starts a function definition?",
+      "choices": [
+        "func",
+        "function",
+        "fn",
+        "def"
+      ],
+      "answer": 3,
+      "explanation": "Python uses 'def' to define functions: def my_func():"
+    },
+    {
+      "question": "return value inside a function:",
+      "choices": [
+        "prints the value",
+        "sends back a value and exits",
+        "stores it globally",
+        "causes an error"
+      ],
+      "answer": 1,
+      "explanation": "return exits the function and sends the value back to the caller."
+    },
+    {
+      "question": "Which is a valid if-elif-else chain?",
+      "choices": [
+        "if x > 0; elif x < 0; else:",
+        "if x > 0: elif x < 0: else:",
+        "if x > 0:\n  ...\nelif x < 0:\n  ...\nelse:\n  ...",
+        "if x > 0 then:\n  ...\nelif x < 0 then:\n  ..."
+      ],
+      "answer": 2,
+      "explanation": "Python uses colons for compound statements and indentation for blocks. The third option is correct Python syntax."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "day": 1,
+    "topic": "Number Basics",
+    "slug": "number-basics",
+    "module_ref": "aptitude/number-basics",
+    "time_minutes": 30
+  },
+  {
+    "day": 2,
+    "topic": "Percentages",
+    "slug": "percentages",
+    "module_ref": "aptitude/percentages",
+    "time_minutes": 30
+  },
+  {
+    "day": 3,
+    "topic": "Ratios Proportions",
+    "slug": "ratios-proportions",
+    "module_ref": "aptitude/ratios-proportions",
+    "time_minutes": 30
+  },
+  {
+    "day": 4,
+    "topic": "Averages",
+    "slug": "averages",
+    "module_ref": "aptitude/averages",
+    "time_minutes": 30
+  },
+  {
+    "day": 5,
+    "topic": "Profit Loss",
+    "slug": "profit-loss",
+    "module_ref": "aptitude/profit-loss",
+    "time_minutes": 30
+  },
+  {
+    "day": 6,
+    "topic": "Interest",
+    "slug": "interest",
+    "module_ref": "aptitude/interest",
+    "time_minutes": 30
+  },
+  {
+    "day": 7,
+    "topic": "Time Work",
+    "slug": "time-work",
+    "module_ref": "aptitude/time-work",
+    "time_minutes": 30
+  },
+  {
+    "day": 8,
+    "topic": "Pipes Cisterns",
+    "slug": "pipes-cisterns",
+    "module_ref": "aptitude/pipes-cisterns",
+    "time_minutes": 30
+  },
+  {
+    "day": 9,
+    "topic": "Speed Time Distance",
+    "slug": "speed-time-distance",
+    "module_ref": "aptitude/speed-time-distance",
+    "time_minutes": 30
+  },
+  {
+    "day": 10,
+    "topic": "Trains Boats",
+    "slug": "trains-boats",
+    "module_ref": "aptitude/trains-boats",
+    "time_minutes": 30
+  },
+  {
+    "day": 11,
+    "topic": "Mixtures Alligation",
+    "slug": "mixtures-alligation",
+    "module_ref": "aptitude/mixtures-alligation",
+    "time_minutes": 30
+  },
+  {
+    "day": 12,
+    "topic": "Permutation Combination",
+    "slug": "permutation-combination",
+    "module_ref": "aptitude/permutation-combination",
+    "time_minutes": 30
+  },
+  {
+    "day": 13,
+    "topic": "Probability",
+    "slug": "probability",
+    "module_ref": "aptitude/probability",
+    "time_minutes": 30
+  },
+  {
+    "day": 14,
+    "topic": "Number Series",
+    "slug": "number-series",
+    "module_ref": "reasoning/number-series",
+    "time_minutes": 30
+  },
+  {
+    "day": 15,
+    "topic": "Coding Decoding",
+    "slug": "coding-decoding",
+    "module_ref": "reasoning/coding-decoding",
+    "time_minutes": 30
+  },
+  {
+    "day": 16,
+    "topic": "Blood Relations",
+    "slug": "blood-relations",
+    "module_ref": "reasoning/blood-relations",
+    "time_minutes": 30
+  },
+  {
+    "day": 17,
+    "topic": "Direction Sense",
+    "slug": "direction-sense",
+    "module_ref": "reasoning/direction-sense",
+    "time_minutes": 30
+  },
+  {
+    "day": 18,
+    "topic": "Syllogisms",
+    "slug": "syllogisms",
+    "module_ref": "reasoning/syllogisms",
+    "time_minutes": 30
+  },
+  {
+    "day": 19,
+    "topic": "Seating Arrangement",
+    "slug": "seating-arrangement",
+    "module_ref": "reasoning/seating-arrangement",
+    "time_minutes": 30
+  },
+  {
+    "day": 20,
+    "topic": "Di Tables",
+    "slug": "di-tables",
+    "module_ref": "aptitude/di-tables",
+    "time_minutes": 30
+  },
+  {
+    "day": 21,
+    "topic": "Di Charts",
+    "slug": "di-charts",
+    "module_ref": "aptitude/di-charts",
+    "time_minutes": 30
+  },
+  {
+    "day": 22,
+    "topic": "Clocks Calendars",
+    "slug": "clocks-calendars",
+    "module_ref": "aptitude/clocks-calendars",
+    "time_minutes": 30
+  },
+  {
+    "day": 23,
+    "topic": "Ages",
+    "slug": "ages",
+    "module_ref": "aptitude/ages",
+    "time_minutes": 30
+  },
+  {
+    "day": 24,
+    "topic": "Simplification",
+    "slug": "simplification",
+    "module_ref": "aptitude/simplification",
+    "time_minutes": 30
+  },
+  {
+    "day": 25,
+    "topic": "Verbal Reasoning",
+    "slug": "verbal-reasoning",
+    "module_ref": "reasoning/verbal-reasoning",
+    "time_minutes": 30
+  },
+  {
+    "day": 26,
+    "topic": "Mixed Arithmetic",
+    "slug": "mixed-arithmetic",
+    "module_ref": "aptitude/mixed-arithmetic",
+    "time_minutes": 30
+  },
+  {
+    "day": 27,
+    "topic": "Mixed Reasoning",
+    "slug": "mixed-reasoning",
+    "module_ref": "reasoning/mixed-reasoning",
+    "time_minutes": 30
+  },
+  {
+    "day": 28,
+    "topic": "Aptitude Mock 1",
+    "slug": "aptitude-mock-1",
+    "module_ref": "aptitude/aptitude-mock-1",
+    "time_minutes": 30
+  },
+  {
+    "day": 29,
+    "topic": "Aptitude Mock 2",
+    "slug": "aptitude-mock-2",
+    "module_ref": "aptitude/aptitude-mock-2",
+    "time_minutes": 30
+  },
+  {
+    "day": 30,
+    "topic": "Final Aptitude Review",
+    "slug": "final-aptitude-review",
+    "module_ref": "aptitude/final-aptitude-review",
+    "time_minutes": 30
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "when_to_help": [
+    "Student confuses print output format",
+    "Wrong use of quotes in string operations",
+    "Confusion about input() returning strings vs numbers"
+  ],
+  "key_concepts": [
+    {
+      "concept": "Print function",
+      "explanation": "use print() with quotes around the text to display it"
+    },
+    {
+      "concept": "Input function",
+      "explanation": "use input('prompt') to read text from the user"
+    },
+    {
+      "concept": "Type checking",
+      "explanation": "use type() to see what kind of data a value holds"
+    }
+  ],
+  "pro_tips": [
+    "print() is a function, so always use parentheses () around its argument",
+    "input() always returns a string - convert to int or float if needed",
+    "type() helps debug: if output is wrong, check variable types with type()"
+  ]
+}
