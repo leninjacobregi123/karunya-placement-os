@@ -1,0 +1,19 @@
+{
+  "day": 9,
+  "topic": "Speed, Time, and Distance",
+  "slug": "speed-distance",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "A car travels 120 km at 60 km/h and returns at 40 km/h. What is the average speed?",
+  "read": "modules/aptitude-foundations/9/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Find average speed",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

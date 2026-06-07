@@ -1,0 +1,19 @@
+{
+  "day": 8,
+  "topic": "Pipes and Cisterns",
+  "slug": "pipes-cisterns",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "If a pipe fills a tank in 4 hours and another empties in 6 hours, what is the net rate?",
+  "read": "modules/aptitude-foundations/8/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Net filling time with pipes",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

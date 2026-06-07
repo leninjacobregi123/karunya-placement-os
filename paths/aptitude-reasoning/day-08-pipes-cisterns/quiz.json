@@ -1,0 +1,61 @@
+{
+  "day": 8,
+  "topic": "Pipes and Cisterns",
+  "questions": [
+    {
+      "question": "Basic formula for Pipes?",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "Apply key formula."
+    },
+    {
+      "question": "If given rate and time, find work?",
+      "choices": [
+        "Rate x Time",
+        "Rate + Time",
+        "Rate / Time",
+        "Rate - Time"
+      ],
+      "answer": 0,
+      "explanation": "Work = Rate x Time."
+    },
+    {
+      "question": "Average speed always means?",
+      "choices": [
+        "Total distance / total time",
+        "Average of speeds",
+        "Median of speeds",
+        "Sum of speeds"
+      ],
+      "answer": 0,
+      "explanation": "Total distance / total time."
+    },
+    {
+      "question": "Most common mistake in Pipes problems?",
+      "choices": [
+        "Wrong formula",
+        "Unit errors",
+        "Sign mistakes",
+        "Arithmetic"
+      ],
+      "answer": 0,
+      "explanation": "Always verify formula first."
+    },
+    {
+      "question": "How to verify your answer?",
+      "choices": [
+        "All approaches",
+        "Only units",
+        "Only plug back",
+        "Only compare"
+      ],
+      "answer": 0,
+      "explanation": "Use multiple methods."
+    }
+  ]
+}

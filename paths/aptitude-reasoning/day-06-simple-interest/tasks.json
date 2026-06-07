@@ -1,0 +1,19 @@
+{
+  "day": 6,
+  "topic": "Simple and Compound Interest",
+  "slug": "simple-interest",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "What is the simple interest on Rs. 1000 at 5% per annum for 3 years? How is it different?",
+  "read": "modules/aptitude-foundations/6/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Calculate simple interest",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

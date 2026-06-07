@@ -1,0 +1,57 @@
+{
+  "day": 7,
+  "topic": "Time and Work",
+  "time_limit_seconds": 120,
+  "questions": [
+    {
+      "question": "What is the formula for Simple SI?",
+      "choices": [
+        "PRT/100",
+        "P(1+r)**t",
+        "P*r*t",
+        "P*t/r"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Work = rate _ time?",
+      "choices": [
+        "x",
+        "+",
+        "/",
+        "-"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Relative speed toward each other?",
+      "choices": [
+        "v1+v2",
+        "|v1-v2|",
+        "v1*v2",
+        "sqrt(v1*v2)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Most common mistake in Time problems?",
+      "choices": [
+        "Formula",
+        "Units",
+        "Signs",
+        "Calc"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How to verify your answer?",
+      "choices": [
+        "All approaches",
+        "Only units",
+        "Only plug back",
+        "Only compare"
+      ],
+      "answer": 0
+    }
+  ]
+}

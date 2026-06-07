@@ -1,0 +1,19 @@
+{
+  "day": 10,
+  "topic": "Trains and Boats",
+  "slug": "trains",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "A 150m train crosses a pole in 12 seconds. What is its speed in km/h?",
+  "read": "modules/aptitude-foundations/10/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Train speed from crossing time",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

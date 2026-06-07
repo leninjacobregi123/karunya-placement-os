@@ -1,0 +1,61 @@
+{
+  "day": 10,
+  "topic": "Sliding Window",
+  "questions": [
+    {
+      "question": "Naive way to find max sum of k consecutive elements?",
+      "choices": [
+        "Check each window: O(n*k)",
+        "Two pointers: O(n)",
+        "Sort first: O(n log n)",
+        "Frequency map: O(n)"
+      ],
+      "answer": 0,
+      "explanation": "For each window, sum k elements: O(n*k). Sliding window improves to O(n)."
+    },
+    {
+      "question": "In sliding window, update sum when window slides?",
+      "choices": [
+        "Add new, subtract old",
+        "Recompute all",
+        "Add all new",
+        "Subtract all old"
+      ],
+      "answer": 0,
+      "explanation": "new_sum = old_sum + arr[right] - arr[left]."
+    },
+    {
+      "question": "Complexity of sliding window for max sum of k elements?",
+      "choices": [
+        "O(1)",
+        "O(n)",
+        "O(n log n)",
+        "O(n*k)"
+      ],
+      "answer": 1,
+      "explanation": "Slide across (n-k+1) positions, each O(1). Total: O(n)."
+    },
+    {
+      "question": "When use variable-size sliding window vs fixed-size?",
+      "choices": [
+        "Always, more efficient",
+        "When constraint depends on condition",
+        "Only when sorted",
+        "Never"
+      ],
+      "answer": 1,
+      "explanation": "Dynamic windows grow/shrink based on conditions."
+    },
+    {
+      "question": "Space complexity of basic sliding window approach?",
+      "choices": [
+        "O(k)",
+        "O(1)",
+        "O(n)",
+        "O(log n)"
+      ],
+      "answer": 1,
+      "explanation": "If only need result, update incrementally: O(1) extra space."
+    }
+  ]
+}

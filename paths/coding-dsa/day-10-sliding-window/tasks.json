@@ -1,0 +1,19 @@
+{
+  "day": 10,
+  "topic": "Sliding Window",
+  "slug": "sliding-window",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "To find the maximum sum of any 3 consecutive elements, what is the naive approach?",
+  "read": "modules/coding-foundations/sliding-window/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Max sum of k consecutive elements",
+      "file": "code/starter.py"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

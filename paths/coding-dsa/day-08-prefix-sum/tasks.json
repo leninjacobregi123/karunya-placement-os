@@ -1,0 +1,19 @@
+{
+  "day": 8,
+  "topic": "Prefix Sum",
+  "slug": "prefix-sum",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "If you need the sum of elements from index i to j in an array, what is the naive approach?",
+  "read": "modules/coding-foundations/prefix-sum/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Range sum queries",
+      "file": "code/starter.py"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

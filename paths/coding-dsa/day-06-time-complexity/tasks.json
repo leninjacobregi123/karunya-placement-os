@@ -1,0 +1,19 @@
+{
+  "day": 6,
+  "topic": "Time Complexity",
+  "slug": "time-complexity",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "If I have a loop inside a loop, each going from 0 to n-1, how many times does the inner statement execute?",
+  "read": "modules/coding-foundations/time-complexity/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Analyze loop complexity",
+      "file": "code/starter.py"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

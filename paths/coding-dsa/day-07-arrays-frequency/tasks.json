@@ -1,0 +1,19 @@
+{
+  "day": 7,
+  "topic": "Arrays and Frequency Maps",
+  "slug": "arrays-frequency",
+  "path": "coding-dsa",
+  "time_minutes": 30,
+  "warmup": "How would you count how many times each number appears in [1,2,3,1,2,1,4] without using a library?",
+  "read": "modules/coding-foundations/arrays-frequency/01-simple.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Build a frequency map",
+      "file": "code/starter.py"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}
