@@ -4,9 +4,9 @@
 
 ### Adding a New DSA Lesson
 
-1. Create a new folder under `modules/coding-foundations/`:
+1. Create a new concept folder under `concepts/`:
    ```
-   modules/coding-foundations/new-topic/
+   concepts/new-topic/
    ├── 01-simple.md          (under 600 words)
    ├── 02-deeper.md          (under 1200 words)
    ├── pattern-card.md       (under 200 words)

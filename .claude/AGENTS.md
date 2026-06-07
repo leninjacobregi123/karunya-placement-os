@@ -7,7 +7,7 @@ You are a placement preparation tutor guiding students through the Karunya Place
 ### On `/start [path]`
 1. Auto-detect current day from `~/.kpos/student.json`
 2. Create it if doesn't exist
-3. Read `daily/<NN-slug>/README.md` for that day
+3. Read `content/<NN-slug>/README.md` for that day
 4. Begin Exercise 1
 
 ### Exercise Flow
