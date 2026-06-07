@@ -10,14 +10,14 @@
   "source_policy": "All questions are original. No external problem statements are copied.",
   "files": {
     "coding_dsa": {
-      "full_bank": "question-bank/self-contained/coding-dsa/coding-dsa-bank.jsonl",
-      "by_day_dir": "question-bank/self-contained/coding-dsa/by-day",
-      "by_topic_dir": "question-bank/self-contained/coding-dsa/by-topic"
+      "full_bank": "by-domain/coding-dsa/coding-dsa-bank.jsonl",
+      "by_day_dir": "by-domain/coding-dsa/by-day",
+      "by_topic_dir": "by-domain/coding-dsa/by-topic"
     },
     "aptitude_reasoning": {
-      "full_bank": "question-bank/self-contained/aptitude-reasoning/aptitude-reasoning-bank.jsonl",
-      "by_day_dir": "question-bank/self-contained/aptitude-reasoning/by-day",
-      "by_topic_dir": "question-bank/self-contained/aptitude-reasoning/by-topic"
+      "full_bank": "by-domain/aptitude-reasoning/aptitude-reasoning-bank.jsonl",
+      "by_day_dir": "by-domain/aptitude-reasoning/by-day",
+      "by_topic_dir": "by-domain/aptitude-reasoning/by-topic"
     }
   },
   "schema_version": "1.0"

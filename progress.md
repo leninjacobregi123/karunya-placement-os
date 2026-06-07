@@ -45,12 +45,12 @@ Note: Aptitude days use 36-40 indexing (not 6-10). The config roadmaps use 6-10 
 
 ## Days 11-30 (Coding) — 20 days pending
 
-No directories exist. Roadmap planning exists in `config/roadmap-coding-dsa-30-days.json`.
+No directories exist. Roadmap planning exists in `configs/roadmap-coding-dsa-30-days.json`.
 Content must be created from scratch.
 
 ## Aptitude Days 11-30 — 25 days pending
 
-No directories exist. Roadmap planning exists in `config/roadmap-aptitude-reasoning-30-days.json`.
+No directories exist. Roadmap planning exists in `configs/roadmap-aptitude-reasoning-30-days.json`.
 Content must be created from scratch.
 
 ## Cleanup — 2026-06-07
@@ -60,12 +60,12 @@ Removed during directory hygiene sweep:
 - 4 tutorial duplicate directories: `day-02-through-day-05-tutorial` (dups of 02-05)
 - 1 placeholder directory: `05-input-output` (conflicted with `05-string-basics`)
 
-Result: `daily/` now has exactly **15 directories**, all non-empty, all with valid content.
+Result: `content/` now has exactly **15 directories**, all non-empty, all with valid content.
 
 ## Content Structure (per day)
 
 ```
-daily/NN-topic-slug/
+content/NN-topic-slug/
 ├── README.md              (800-1200 words, 5 progressive exercises)
 ├── answer-key.json        (exercises: [{title, description}, ...] × 5)
 ├── ai-help.json           (when_to_help, key_concepts, pro_tips)
@@ -82,10 +82,10 @@ Days 2, 3, 4 also include `claude_code.md` and `codex_code.md` (48 bytes each, p
 
 | Item | Status |
 |------|--------|
-| engine/progress_tracker.py | Exists |
+| engines/progress_tracker.py | Exists |
 | scripts/kpos.py | CLI commands |
-| question-bank/self-contained/ | 600 original questions |
-| config/roadmap-*.json | 3 roadmap configs |
+| questions/ | 600 original questions |
+| configs/roadmap-*.json | 3 roadmap configs |
 | .claude/AGENTS.md | AI coach rules |
 | docs/ | Admin + progress docs |
 

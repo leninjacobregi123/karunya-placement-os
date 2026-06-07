@@ -28,7 +28,7 @@ Same structure, adapted for math/reasoning:
 
 ### Adding Questions
 
-Add to `question-bank/self-contained/`:
+Add to `questions/`:
 - `coding-dsa/` for programming problems
 - `aptitude-reasoning/` for math/reasoning problems
 

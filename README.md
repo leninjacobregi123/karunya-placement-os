@@ -65,16 +65,15 @@ karunya-placement-os/
 ├── ROADMAP.md             # 30-day roadmap (all topics)
 ├── .claude/
 │   └── AGENTS.md          # AI tutor system prompt (auto-loaded)
-├── config/                # Study mode configs
-├── scripts/               # CLI tools (advanced backup)
-├── engine/                # Progress tracking engine
-├── daily/                 # Day 01–60 lessons and exercises
-├── modules/               # Concept lessons
-├── question-bank/         # 600+ original practice questions
-├── progress/              # Progress data (auto-managed)
-├── docs/                  # Guides
-├── faculty/               # Faculty materials
-└── peer-pods/             # Peer learning guides
+├── configs/                # Path and rubric configs
+├── content/                # Learning days (coding-dsa + aptitude)
+├── concepts/               # Deep-dive concept lessons
+├── questions/              # 600+ searchable question bank
+├── students/               # Student progress data (auto-managed)
+├── docs/                   # Guides
+├── scripts/                # CLI tools
+├── faculty/                # Faculty materials
+└── peer-pods/              # Peer learning guides
 ```
 
 ## No Network Required

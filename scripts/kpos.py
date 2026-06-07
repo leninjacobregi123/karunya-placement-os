@@ -13,7 +13,7 @@ PROGRESS = ROOT / "progress" / "progress.json"
 
 # Allow running without installing the repo as a package.
 sys.path.insert(0, str(ROOT))
-from engine.progress_tracker import (  # noqa: E402
+from engines.progress_tracker import (  # noqa: E402
     append_event,
     export_student_progress,
     git_status_summary,
@@ -78,7 +78,7 @@ def day_folder(path_name: str, day: int) -> Path | None:
     if path_name == "full":
         return None
     slug = day_slug(path_name, day)
-    return ROOT / "paths" / path_name / f"day-{day:02d}-{slug}"
+    return ROOT / "content" / path_name / f"day-{day:02d}-{slug}"
 
 
 def cmd_init(args):
@@ -270,15 +270,14 @@ def cmd_self_check(args):
         "README.md",
         "ROADMAP.md",
         "AGENTS.md",
-        "HOW_TO_USE_AI.md",
         "config/roadmap-coding-dsa-30-days.json",
         "config/roadmap-aptitude-reasoning-30-days.json",
         "engines/progress_tracker.py",
         "docs/STUDENT_PROGRESS_TRACKING.md",
     ]
     missing = [p for p in required if not (ROOT / p).exists()]
-    for path_name in ["coding-dsa", "aptitude-reasoning"]:
-        for d in range(1, 31):
+    for path_name in ["coding-dsa", "aptitude"]:
+        for d in range(1, 11):
             matches = list((ROOT / "content" / path_name).glob(f"day-{d:02d}-*"))
             if not matches:
                 missing.append(f"content/{path_name}/day-{d:02d}-*")
