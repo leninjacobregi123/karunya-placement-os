@@ -1,1 +1,0 @@
-Copy claude code content from day-1 as template.

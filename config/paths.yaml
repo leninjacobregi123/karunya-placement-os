@@ -1,15 +1,15 @@
 # KPOS path configuration
 paths:
   coding_dsa:
-    dir: paths/coding-dsa
-    modules_dir: modules
-    question_bank: question-bank/self-contained/coding-dsa
+    dir: content/coding-dsa
+    concepts_dir: concepts
+    question_bank: questions/by-domain/coding-dsa
     total_days: 30
     time_per_day_minutes: 30
   aptitude_reasoning:
-    dir: paths/aptitude-reasoning
-    modules_dir: modules
-    question_bank: question-bank/self-contained/aptitude-reasoning
+    dir: content/aptitude
+    concepts_dir: concepts
+    question_bank: questions/by-domain/aptitude-reasoning
     total_days: 30
     time_per_day_minutes: 30
   full:
@@ -18,6 +18,6 @@ paths:
     time_per_day_minutes: 60
 
 progress:
-  file: progress/progress.json
-  events: progress/events.jsonl
-  reports: progress/reports
+  file: students/progress.json
+  events: students/events.jsonl
+  reports: students/reports

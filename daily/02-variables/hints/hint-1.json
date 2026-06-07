@@ -1,9 +1,0 @@
-{
-  "level": 1,
-  "hint": "A variable is like a labeled box. You put a value inside and give it a name.",
-  "socratic_questions": [
-    "What happens if you try int('25.5')?",
-    "Can you use any word as a variable name?",
-    "What type does Python assign to 42.0?"
-  ]
-}

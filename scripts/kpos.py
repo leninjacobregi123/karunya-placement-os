@@ -112,11 +112,11 @@ def print_day(path_name: str, day: int):
         a = item["aptitude_reasoning"]
         print(f"Coding + DSA: {c['topic']} (30 min)")
         print(f"Aptitude + Reasoning: {a['topic']} (30 min)")
-        print(f"Open: paths/coding-dsa/day-{day:02d}-{c['slug']}/README.md")
-        print(f"Open: paths/aptitude-reasoning/day-{day:02d}-{a['slug']}/README.md")
+        print(f"Open: content/coding-dsa/day-{day:02d}-{c['slug']}/README.md")
+        print(f"Open: content/aptitude/day-{day:02d}-{a['slug']}/README.md")
     else:
         print(f"Topic: {item['topic']} (30 min)")
-        print(f"Open: paths/{path_name}/day-{day:02d}-{item['slug']}/README.md")
+        print(f"Open: content/{path_name}/day-{day:02d}-{item['slug']}/README.md")
     print("Minimum day: python scripts/kpos.py minimum --path", path_name, "--day", day)
 
 
@@ -273,15 +273,15 @@ def cmd_self_check(args):
         "HOW_TO_USE_AI.md",
         "config/roadmap-coding-dsa-30-days.json",
         "config/roadmap-aptitude-reasoning-30-days.json",
-        "engine/progress_tracker.py",
+        "engines/progress_tracker.py",
         "docs/STUDENT_PROGRESS_TRACKING.md",
     ]
     missing = [p for p in required if not (ROOT / p).exists()]
     for path_name in ["coding-dsa", "aptitude-reasoning"]:
         for d in range(1, 31):
-            matches = list((ROOT / "paths" / path_name).glob(f"day-{d:02d}-*"))
+            matches = list((ROOT / "content" / path_name).glob(f"day-{d:02d}-*"))
             if not matches:
-                missing.append(f"paths/{path_name}/day-{d:02d}-*")
+                missing.append(f"content/{path_name}/day-{d:02d}-*")
     if missing:
         print("SELF-CHECK FAILED")
         for m in missing:
