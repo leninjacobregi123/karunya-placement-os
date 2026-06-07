@@ -1,6 +1,6 @@
 
 # KPOS auto-generated progress — never commit
-.hermes
+.hermes/
 .kpos/
 *.log
 *.pyc
