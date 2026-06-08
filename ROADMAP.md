@@ -2,13 +2,13 @@
 
 ## How to Read This Roadmap
 
-Each day has a focused topic. Spend 30 minutes on one path, or 60 minutes for Full Mode (both paths combined).
+Each sequence has a focused topic. Spend 30 minutes per topic, or 60 minutes for Full Mode (both paths combined).
 
-**Never skip ahead.** Each day builds on previous concepts.
+**Work sequentially.** Each day builds on previous concepts.
 
 ## Coding + DSA Path
 
-| Day | Topic | Level |
+| Sequence | Topic | Level |
 |-----|-------|-------|
 | 01 | Python Diagnostic | beginner |
 | 02 | Dry Run Thinking | beginner |
@@ -43,7 +43,7 @@ Each day has a focused topic. Spend 30 minutes on one path, or 60 minutes for Fu
 
 ## Aptitude + Reasoning Path
 
-| Day | Topic | Level |
+| Sequence | Topic | Level |
 |-----|-------|-------|
 | 01 | Number Basics | beginner |
 | 02 | Percentages | beginner |
@@ -78,15 +78,15 @@ Each day has a focused topic. Spend 30 minutes on one path, or 60 minutes for Fu
 
 ## Full Mode
 
-Full Mode = Coding + DSA block + Aptitude + Reasoning block for the same day number.
+Full Mode = Coding + DSA block + Aptitude + Reasoning block for the same sequence number.
 
-Example — Day 1 Full Mode:
+Example — Sequence 1 Full Mode:
 - **Coding + DSA:** Python Diagnostic (30 min)
 - **Aptitude + Reasoning:** Number Basics (30 min)
 
 ## Tips
 
-- Start with beginner days even if you feel confident — the diagnostic reveals blind spots
+- Start with beginner topics even if you feel confident — the diagnostic reveals blind spots
 - Use `python scripts/kpos.py minimum` on busy days to preserve your streak
 - Log mistakes honestly — revision is where real learning happens
 - The last 3 days of each path are assessment days — treat them like real tests

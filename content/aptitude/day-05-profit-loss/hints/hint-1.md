@@ -1,1 +1,0 @@
-Always identify which value is the Cost Price (CP) and which is the Selling Price (SP). SP is what you get when you sell, CP is what you paid. Profit means SP > CP; Loss means CP > SP. Never swap them — that is the most common error. Write CP and SP clearly on your scratch paper before applying any formula. Think: would you buy at Rs 500 or sell at Rs 500? Whose price is Rs 500?

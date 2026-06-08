@@ -15,12 +15,12 @@ That's it. Claude Code handles everything: setup, grading, hints, progress.
 
 ## What You Get
 
-**30 days of placement prep in two tracks:**
+**30 topics of placement prep in two tracks:**
 
 - **Coding + DSA** — Python foundations, arrays, two pointers, sliding window, stacks, queues, sorting, binary search, recursion, trees, graphs, dynamic programming, greedy algorithms
 - **Aptitude + Reasoning** — Number basics, percentages, ratios, averages, profit-loss, interest, time-work, probability, syllogisms, seating arrangements, data interpretation
 
-**One path** (30 min/day) or **Full Mode** (both tracks, 60 min/day).
+**One path** (30 min/session) or **Full Mode** (both tracks, 60 min/session).
 
 ## How It Works
 

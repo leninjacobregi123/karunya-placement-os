@@ -1,1 +1,0 @@
-To check if a number N is prime, divide it only by primes up to floor(sqrt(N)). For example, to check 97, only test primes 2, 3, 5, 7 (since sqrt(97) ≈ 9.8 and the next prime is 11 which is > 9.8). If none divide evenly, the number is prime. Also remember: 1 is not prime, and 2 is the only even prime.

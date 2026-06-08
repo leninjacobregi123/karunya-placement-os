@@ -1,1 +1,0 @@
-For successive percentage changes, always use multipliers, not addition. A +20% change means multiply by 1.20; a −15% change means multiply by 0.85. Two successive changes of a% and b% give a net change of a + b + (a × b)/100. Never forget the product term.

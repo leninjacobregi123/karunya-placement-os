@@ -1,47 +1,62 @@
 {
-  "project": "karunya-placement-os",
-  "version": "0.3.1",
-  "update": "2026-06-07T08:00:00Z",
-  "tracks": {
-    "coding-dsa": {
-      "total_days": 30,
-      "total_topics": 30,
-      "content_ready": 10,
-      "content_pending": 20,
-      "features": [
-        {"id": "feat-001", "day": 1, "topic": "Python Basics", "status": "complete", "evidence": "daily/01-python-basics — 7 files"},
-        {"id": "feat-002", "day": 2, "topic": "Variables & Data Types", "status": "complete", "evidence": "daily/02-variables — 9 files"},
-        {"id": "feat-003", "day": 3, "topic": "Data Types & Conversion", "status": "complete", "evidence": "daily/03-data-types — 9 files"},
-        {"id": "feat-004", "day": 4, "topic": "Operators & Expressions", "status": "complete", "evidence": "daily/04-operators — 9 files"},
-        {"id": "feat-005", "day": 5, "topic": "String Fundamentals", "status": "complete", "evidence": "daily/05-string-basics — 7 files"},
-        {"id": "feat-006", "day": 6, "topic": "String Indexing", "status": "complete", "evidence": "daily/06-string-indexing — 7 files"},
-        {"id": "feat-007", "day": 7, "topic": "String Slicing", "status": "complete", "evidence": "daily/07-string-slicing — 7 files"},
-        {"id": "feat-008", "day": 8, "topic": "String Methods", "status": "complete", "evidence": "daily/08-string-methods — 7 files"},
-        {"id": "feat-009", "day": 9, "topic": "String Formatting", "status": "complete", "evidence": "daily/09-string-formatting — 7 files"},
-        {"id": "feat-010", "day": 10, "topic": "String Practice Problems", "status": "complete", "evidence": "daily/10-string-practice — 7 files"}
-      ]
+  "version": "2026-06-07",
+  "last_updated": "2026-06-07T10:00:00Z",
+  "structure": "topic-based",
+  "features": [
+    {
+      "id": "feat-001",
+      "name": "Phase 0 — Orientation",
+      "status": "complete",
+      "evidence": "KPOS_PROJECT_BASIS_EXTRACTED_SUMMARY.md, AGENTS.md present at repo root",
+      "completed_at": "2026-06-05"
     },
-    "aptitude-reasoning": {
-      "total_days": 30,
-      "total_topics": 30,
-      "content_ready": 5,
-      "content_pending": 25,
-      "features": [
-        {"id": "apt-001", "day": 6, "topic": "Number Basics & Classification", "status": "complete", "evidence": "daily/36-aptitude-number-basics — 7 files"},
-        {"id": "apt-002", "day": 7, "topic": "Percentages", "status": "complete", "evidence": "daily/37-aptitude-percentages — 7 files"},
-        {"id": "apt-003", "day": 8, "topic": "Ratios & Proportions", "status": "complete", "evidence": "daily/38-aptitude-ratios — 7 files"},
-        {"id": "apt-004", "day": 9, "topic": "Averages & Mean", "status": "complete", "evidence": "daily/39-aptitude-averages — 7 files"},
-        {"id": "apt-005", "day": 10, "topic": "Profit & Loss", "status": "complete", "evidence": "daily/40-aptitude-profit-loss — 7 files"}
-      ]
+    {
+      "id": "feat-002",
+      "name": "Phase 1 — Repository Schema",
+      "status": "complete",
+      "evidence": "README.md, configs/, manifest.json, question-index.csv present",
+      "completed_at": "2026-06-05"
+    },
+    {
+      "id": "feat-003",
+      "name": "Phase 2 — CLI and Engine",
+      "status": "complete",
+      "evidence": "engines/progress_tracker.py (17 functions); kpos.py self-check passes (topic-based resolution)",
+      "completed_at": "2026-06-05",
+      "reworked_at": "2026-06-07"
+    },
+    {
+      "id": "feat-004",
+      "name": "Phase 3 — Content Generation",
+      "status": "in-progress",
+      "evidence": "20/60 topics (10 coding + 10 aptitude); content/coding/ + content/aptitude/ each have 10 directories",
+      "progress": {
+        "aptitude_reasoning": "10/30",
+        "coding_dsa": "10/30"
+      },
+      "remaining": "40 topics (sequences 11-30)",
+      "reorg": "2026-06-07: Moved from day-based to topic-based structure. content/coding-dsa/day-NN-slug/ -> content/coding/slug/"
+    },
+    {
+      "id": "feat-005",
+      "name": "Phase 4 — Model Lessons",
+      "status": "complete",
+      "evidence": "dp-intuition, percentages, syllogisms — each with full files",
+      "completed_at": "2026-06-06T14:00:00Z"
+    },
+    {
+      "id": "feat-006",
+      "name": "Phase 5 — Validation",
+      "status": "complete",
+      "evidence": "All structural checks passed post-reorg",
+      "completed_at": "2026-06-07"
+    },
+    {
+      "id": "feat-007",
+      "name": "Phase 6 — Release Readiness",
+      "status": "complete",
+      "evidence": "External source index, AI safety policy, faculty/pod guides, CONTRIBUTING, LICENSE all present",
+      "completed_at": "2026-06-06"
     }
-  },
-  "summary": {
-    "total_features": 60,
-    "completed": 15,
-    "pending": 45,
-    "scaffold": 0,
-    "empty": 0,
-    "completion_pct": 25
-  },
-  "cleanup_notes": "2026-06-07: Removed 26 empty scaffolding dirs, 4 tutorial dups, 1 placeholder. daily/ now has 15 directories, all non-empty."
+  ]
 }
