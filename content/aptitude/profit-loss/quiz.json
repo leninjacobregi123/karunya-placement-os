@@ -1,0 +1,60 @@
+{
+  "topic": "Profit and Loss",
+  "questions": [
+    {
+      "q": "A pen is bought for \u20b950 and sold for \u20b965. What is the profit percentage?",
+      "choices": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": 3,
+      "explanation": "Profit = 65 - 50 = \u20b915. Profit% = (15/50) \u00d7 100 = 30%"
+    },
+    {
+      "q": "If an item is sold at a loss of 20% for \u20b9800, what was its cost price?",
+      "choices": [
+        "\u20b9960",
+        "\u20b91000",
+        "\u20b91100",
+        "\u20b91200"
+      ],
+      "answer": 1,
+      "explanation": "SP = CP \u00d7 0.80, so CP = 800/0.80 = \u20b91000"
+    },
+    {
+      "q": "A product marked \u20b9500 sold at 20% discount. Selling price is:",
+      "choices": [
+        "\u20b9380",
+        "\u20b9400",
+        "\u20b9420",
+        "\u20b9450"
+      ],
+      "answer": 1,
+      "explanation": "Discount = 20% of 500 = \u20b9100. SP = 500 - 100 = \u20b9400"
+    },
+    {
+      "q": "Two items sold at same SP. One at 20% profit, one at 20% loss. Overall result:",
+      "choices": [
+        "No profit no loss",
+        "2% profit",
+        "4% loss",
+        "2% loss"
+      ],
+      "answer": 2,
+      "explanation": "Equal profit/loss% always gives loss of (20/10)\u00b2 = 4%. Total cost > total SP."
+    },
+    {
+      "q": "A shopkeeper uses 900g instead of 1kg but charges at CP. His gain% is approximately:",
+      "choices": [
+        "10%",
+        "11.11%",
+        "9.09%",
+        "12%"
+      ],
+      "answer": 1,
+      "explanation": "Gain% = (1000-900)/900 \u00d7 100 = 100/900 \u00d7 100 \u2248 11.11%"
+    }
+  ]
+}

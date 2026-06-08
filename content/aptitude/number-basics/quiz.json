@@ -1,0 +1,60 @@
+{
+  "topic": "Number Basics",
+  "questions": [
+    {
+      "q": "Which number is divisible by both 4 and 6?",
+      "choices": [
+        "22",
+        "24",
+        "28",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "24 \u00f7 4 = 6 and 24 \u00f7 6 = 4. 24 is the smallest number divisible by both."
+    },
+    {
+      "q": "HCF of 36 and 48 is:",
+      "choices": [
+        "6",
+        "12",
+        "8",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "36 = 2\u00b2 \u00d7 3\u00b2, 48 = 2\u2074 \u00d7 3. Common factors: 2\u00b2 \u00d7 3 = 12"
+    },
+    {
+      "q": "LCM of 12 and 18 is:",
+      "choices": [
+        "6",
+        "36",
+        "72",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "12 = 2\u00b2 \u00d7 3, 18 = 2 \u00d7 3\u00b2. LCM = 2\u00b2 \u00d7 3\u00b2 = 36"
+    },
+    {
+      "q": "Is 161 a prime number?",
+      "choices": [
+        "Yes",
+        "No \u2014 divisible by 7",
+        "No \u2014 divisible by 3",
+        "No \u2014 divisible by 9"
+      ],
+      "answer": 1,
+      "explanation": "161 = 7 \u00d7 23. Not prime."
+    },
+    {
+      "q": "Which divisibility rule checks if a number is divisible by 9?",
+      "choices": [
+        "Last digit is 9",
+        "Sum of digits is 9",
+        "Last digit is 0 or 9",
+        "Sum of digits is divisible by 9"
+      ],
+      "answer": 3,
+      "explanation": "A number is divisible by 9 if sum of its digits is divisible by 9. E.g., 126 \u2192 1+2+6=9"
+    }
+  ]
+}

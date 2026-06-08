@@ -1,0 +1,60 @@
+{
+  "topic": "Lists and Strings",
+  "questions": [
+    {
+      "question": "list.append(x) vs list.insert(0, x):",
+      "choices": [
+        "Both add to end",
+        "append adds to end, insert adds at index 0",
+        "Both add to start",
+        "Neither modifies the list"
+      ],
+      "answer": 1,
+      "explanation": "append always adds to the end. insert(index, item) places the item at the specified index."
+    },
+    {
+      "question": "\"hello world\".split() produces:",
+      "choices": [
+        "['hello', 'world']",
+        "(\"hello\", \"world\")",
+        "[\"hello world\"]",
+        "error"
+      ],
+      "answer": 0,
+      "explanation": "split() without arguments splits on any whitespace and returns a list."
+    },
+    {
+      "question": "a = [1,2,3]; a[1] = 10; what is a?",
+      "choices": [
+        "[10, 2, 3]",
+        "[1, 10, 3]",
+        "[1, 2, 10]",
+        "error"
+      ],
+      "answer": 1,
+      "explanation": "List indices are zero-based. a[1] is the second element (2). Setting it to 10 gives [1, 10, 3]."
+    },
+    {
+      "question": "len(\"Python\") equals:",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "error"
+      ],
+      "answer": 1,
+      "explanation": "len(\"Python\") counts characters: P-y-t-h-o-n = 6 characters."
+    },
+    {
+      "question": "\"abcd\"[::-1] equals:",
+      "choices": [
+        "abdc",
+        "dcba",
+        "abcd",
+        "error"
+      ],
+      "answer": 1,
+      "explanation": "[::-1] reverses the string. abc d reversed is dcba. A common Python idiom."
+    }
+  ]
+}

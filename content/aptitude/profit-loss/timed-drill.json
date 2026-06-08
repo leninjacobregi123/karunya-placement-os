@@ -1,0 +1,32 @@
+{
+  "topic": "Profit and Loss",
+  "slug": "profit-loss",
+  "time_limit_seconds": 120,
+  "questions": [
+    {
+      "question": "CP = Rs.200, SP = Rs.250. Profit% = ?",
+      "choices": ["20%", "25%", "30%", "35%"],
+      "answer": 1
+    },
+    {
+      "question": "If an item is sold at 10% loss for Rs.540, find CP.",
+      "choices": ["Rs.594", "Rs.600", "Rs.610", "Rs.630"],
+      "answer": 1
+    },
+    {
+      "question": "Discount of 15% on Rs.800 = ?",
+      "choices": ["Rs.100", "Rs.110", "Rs.120", "Rs.130"],
+      "answer": 2
+    },
+    {
+      "question": "Buying at Rs.80 and selling at Rs.100. Profit% = ?",
+      "choices": ["20%", "25%", "30%", "35%"],
+      "answer": 1
+    },
+    {
+      "question": "Two successive discounts: 10% + 20% on Rs.1000. Final SP = ?",
+      "choices": ["Rs.680", "Rs.700", "Rs.720", "Rs.750"],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "topic": "Prefix Sum",
+  "questions": [
+    {
+      "question": "Time to build prefix sum array of size n?",
+      "choices": [
+        "O(1)",
+        "O(n)",
+        "O(n log n)",
+        "O(n**2)"
+      ],
+      "answer": 1,
+      "explanation": "One pass: prefix[i] = prefix[i-1] + arr[i-1]."
+    },
+    {
+      "question": "After building, how fast for a subarray query?",
+      "choices": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "answer": 0,
+      "explanation": "prefix[right+1] - prefix[left]: two lookups."
+    },
+    {
+      "question": "Total time for k range queries using prefix sums?",
+      "choices": [
+        "O(n+k)",
+        "O(n*k)",
+        "O(n log n+k)",
+        "O(k log n)"
+      ],
+      "answer": 0,
+      "explanation": "Build O(n), each query O(1): O(n+k)."
+    },
+    {
+      "question": "If all elements negative, does prefix-sum still work?",
+      "choices": [
+        "No",
+        "Yes, same way",
+        "Only if sum=0",
+        "Depends on values"
+      ],
+      "answer": 1,
+      "explanation": "Prefix sums handle negatives just fine."
+    },
+    {
+      "question": "Can prefix sums extend to 2D? Query time?",
+      "choices": [
+        "No, only 1D",
+        "Yes, O(1)",
+        "Yes, O(n)",
+        "Yes, O(log n)"
+      ],
+      "answer": 1,
+      "explanation": "Yes - 2D prefix grid: O(1) for sub-rectangle."
+    }
+  ]
+}

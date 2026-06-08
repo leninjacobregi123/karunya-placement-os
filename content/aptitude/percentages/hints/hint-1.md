@@ -1,0 +1,1 @@
+For any percentage problem, first identify the OLD value (the base). Write it down. Then ask: is this a "of" problem, a "change" problem, or a "what percent" problem? Each type uses a different formula. Don't skip this step.

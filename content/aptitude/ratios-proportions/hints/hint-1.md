@@ -1,0 +1,1 @@
+For any ratio problem, first identify what each term represents and what the total is. Write down: (i) the ratio terms, (ii) the total parts, (iii) the total amount. Three lines of notes prevent most errors. Don't skip them.

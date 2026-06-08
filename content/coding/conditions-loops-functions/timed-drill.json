@@ -1,0 +1,56 @@
+{
+  "topic": "Conditions, Loops, and Functions",
+  "time_limit_seconds": 120,
+  "questions": [
+    {
+      "question": "True and False or True equals:",
+      "choices": [
+        "True",
+        "False",
+        "error",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "-5 % 3 equals?",
+      "choices": [
+        "-2",
+        "2",
+        "1",
+        "-1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "bool('hello') + bool('') equals?",
+      "choices": [
+        "1",
+        "True",
+        "2",
+        "error"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "10 ** 0 equals?",
+      "choices": [
+        "0",
+        "1",
+        "10",
+        "100"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "max(1, 9, 3) equals?",
+      "choices": [
+        "9",
+        "1",
+        "3",
+        "11"
+      ],
+      "answer": 0
+    }
+  ]
+}

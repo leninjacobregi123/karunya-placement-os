@@ -1,0 +1,106 @@
+{
+  "topic": "Percentages",
+  "time_limit_seconds": 300,
+  "questions": [
+    {
+      "question": "What is 15% of 240?",
+      "choices": [
+        "32",
+        "36",
+        "38",
+        "40"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A product costs Rs 800. After a 12.5% discount, the new price is:",
+      "choices": [
+        "Rs 680",
+        "Rs 700",
+        "Rs 720",
+        "Rs 760"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If x = 40 and y = 60, x is what percent of y?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "66.67%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A price increases from Rs 200 to Rs 260. The % increase is:",
+      "choices": [
+        "26%",
+        "30%",
+        "40%",
+        "60%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "30% of a number is 75. The number is:",
+      "choices": [
+        "150",
+        "200",
+        "225",
+        "250"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Net change after +25% followed by \u221220% is:",
+      "choices": [
+        "0%",
+        "+5%",
+        "+10%",
+        "+20%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "60% of 60% of 500 equals:",
+      "choices": [
+        "180",
+        "200",
+        "216",
+        "240"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A student scores 88 out of 120. The closest percentage is:",
+      "choices": [
+        "70%",
+        "73%",
+        "75%",
+        "80%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A salary is first reduced by 10% and then increased by 10%. The net change is:",
+      "choices": [
+        "0%",
+        "1% decrease",
+        "1% increase",
+        "2% decrease"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What percent is 48 of 120?",
+      "choices": [
+        "30%",
+        "36%",
+        "40%",
+        "48%"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "topic": "Time and Work",
+  "slug": "time-work",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "If person A can finish a task in 6 days and person B in 8 days, how long together?",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Find combined work time",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

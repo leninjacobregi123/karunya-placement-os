@@ -1,0 +1,56 @@
+{
+  "topic": "Time Complexity",
+  "time_limit_seconds": 120,
+  "questions": [
+    {
+      "question": "Which complexity class grows fastest for large n?",
+      "choices": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n)",
+        "O(n**2)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Algorithm takes 1 sec for input 1000, how long for input 2000 with O(n)?",
+      "choices": [
+        "0.5s",
+        "1s",
+        "2s",
+        "4s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Can any algorithm that inspects every element be faster than O(n)?",
+      "choices": [
+        "Yes, always",
+        "No, not if all data matters",
+        "Yes, with O(1)",
+        "Depends on hardware"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For O(n**2) vs O(n log n), which wins for n = 10**6?",
+      "choices": [
+        "O(n**2)",
+        "O(n log n)",
+        "Equal",
+        "Cannot compare"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Big-O describe?",
+      "choices": [
+        "Exact runtime",
+        "Best case only",
+        "Growth rate of worst case",
+        "Average case"
+      ],
+      "answer": 2
+    }
+  ]
+}

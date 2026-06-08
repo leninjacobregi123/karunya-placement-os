@@ -1,0 +1,60 @@
+{
+  "topic": "Two Pointers",
+  "questions": [
+    {
+      "question": "In two-pointer technique for sorted array, where start?",
+      "choices": [
+        "Both at 0",
+        "Both at last",
+        "Left at 0, right at last",
+        "Randomly"
+      ],
+      "answer": 2,
+      "explanation": "One pointer at smallest, one at largest."
+    },
+    {
+      "question": "If sum > target, what do?",
+      "choices": [
+        "Move left forward",
+        "Move right backward",
+        "Move both",
+        "Stop"
+      ],
+      "answer": 1,
+      "explanation": "Moving right reduces the sum."
+    },
+    {
+      "question": "Time complexity of two-pointer search in sorted array of size n?",
+      "choices": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n**2)"
+      ],
+      "answer": 2,
+      "explanation": "Each step moves one pointer. Total: O(n)."
+    },
+    {
+      "question": "What is slow/fast pointer useful for?",
+      "choices": [
+        "Sorting",
+        "Detecting cycles and finding middle",
+        "Searching unsorted arrays",
+        "Merging"
+      ],
+      "answer": 1,
+      "explanation": "Detects cycles, finds middle efficiently."
+    },
+    {
+      "question": "Can two pointers work on unsorted array?",
+      "choices": [
+        "No",
+        "Only after sorting",
+        "Yes, O(n) benefit",
+        "Only for some"
+      ],
+      "answer": 0,
+      "explanation": "Sorted is needed for deciding pointer direction."
+    }
+  ]
+}

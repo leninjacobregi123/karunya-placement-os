@@ -1,0 +1,18 @@
+{
+  "topic": "Number Basics",
+  "slug": "number-basics",
+  "path": "aptitude-reasoning",
+  "time_minutes": 30,
+  "warmup": "What is the remainder when 137 is divided by 9?",
+  "read": "README.md",
+  "practice": [
+    {
+      "type": "must_do",
+      "title": "Number classification",
+      "file": "answers.json"
+    }
+  ],
+  "quiz_file": "quiz.json",
+  "timed_drill_file": "timed-drill.json",
+  "reflection_file": "reflection.md"
+}

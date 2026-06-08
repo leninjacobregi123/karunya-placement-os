@@ -1,0 +1,1 @@
+Prime factorize both numbers. HCF = product of common primes with the LOWER exponent. LCM = product of all primes with the HIGHER exponent. Remember: HCF ≤ LCM always, and HCF × LCM = product of the two numbers.

@@ -1,0 +1,60 @@
+{
+  "topic": "Percentages",
+  "questions": [
+    {
+      "question": "A shirt marked at Rs 600 is sold at a 25% discount. What is the selling price?",
+      "choices": [
+        "Rs 400",
+        "Rs 450",
+        "Rs 475",
+        "Rs 500"
+      ],
+      "answer": 1,
+      "explanation": "25% discount on Rs 600 = 0.25 \u00d7 600 = Rs 150 off. Selling price = 600 - 150 = Rs 450. Alternatively: 600 \u00d7 0.75 = Rs 450."
+    },
+    {
+      "question": "The population of a city increased from 50,000 to 57,500. What is the percentage increase?",
+      "choices": [
+        "12.5%",
+        "15%",
+        "25%",
+        "7.5%"
+      ],
+      "answer": 1,
+      "explanation": "% change = ((57500 - 50000) / 50000) \u00d7 100 = (7500 / 50000) \u00d7 100 = 15%."
+    },
+    {
+      "question": "A number is first increased by 20% and then decreased by 20%. What is the net % change?",
+      "choices": [
+        "0% (no change)",
+        "4% increase",
+        "4% decrease",
+        "8% decrease"
+      ],
+      "answer": 2,
+      "explanation": "Net change = 20 + (-20) + (20 \u00d7 -20)/100 = 0 + (-4) = -4%. So it's a 4% decrease. Check: 100 \u2192 120 \u2192 96. Not back to 100!"
+    },
+    {
+      "question": "A student scored 34 out of 50 in a test. What percentage is that?",
+      "choices": [
+        "34%",
+        "50%",
+        "68%",
+        "75%"
+      ],
+      "answer": 2,
+      "explanation": "(34/50) \u00d7 100 = 0.68 \u00d7 100 = 68%. Shortcut: 34/50 = 68/100 = 68% (multiply numerator and denominator by 2)."
+    },
+    {
+      "question": "After a 15% salary hike, a person earns Rs 5,750 per month. What was the original salary?",
+      "choices": [
+        "Rs 4,750",
+        "Rs 4,850",
+        "Rs 5,000",
+        "Rs 5,100"
+      ],
+      "answer": 2,
+      "explanation": "New salary = Original \u00d7 1.15. So Original = 5750 / 1.15 = Rs 5,000. Check: 5000 \u00d7 1.15 = 5000 + 750 = 5750."
+    }
+  ]
+}
