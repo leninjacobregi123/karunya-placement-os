@@ -96,6 +96,33 @@ export default function Dashboard() {
     }
   };
 
+  const createProfile = async (selectedPath: string) => {
+    const newProfile = {
+      student_id: `local-${Date.now()}`,
+      name: '',
+      selected_path: selectedPath,
+      current_day: 1,
+      days_completed_coding: [],
+      days_completed_aptitude: [],
+      scores: {},
+      weak_topics: [],
+      streak: 0,
+      last_active_day: null,
+      created_at: new Date().toISOString(),
+    };
+
+    try {
+      await fetch('/api/progress', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(newProfile),
+      });
+      setProgress(newProfile);
+    } catch (e) {
+      console.error('Failed to create profile');
+    }
+  };
+
   const fetchRoadmap = async (path: string) => {
     try {
       const res = await fetch(`/api/roadmap/${path}`);
@@ -247,6 +274,52 @@ export default function Dashboard() {
   };
 
   if (loading && !progress) return <div className="flex h-screen items-center justify-center bg-black text-blue-500 font-mono">Initializing KPOS Engine...</div>;
+
+  if (!loading && !progress) {
+    return (
+      <div className="flex h-screen items-center justify-center bg-[#0d1117] text-[#c9d1d9] font-mono">
+        <div className="max-w-md w-full mx-auto text-center space-y-6 p-8">
+          <Terminal className="mx-auto text-blue-500" size={40} />
+          <h1 className="text-xl font-bold text-white">Welcome to KPOS</h1>
+          <p className="text-[#8b949e] text-sm">
+            No profile found on this machine yet. Pick a track to start your 30-day placement prep.
+          </p>
+          <div className="space-y-3">
+            <button
+              onClick={() => createProfile('coding-dsa')}
+              className="w-full flex items-center gap-3 p-4 rounded-lg bg-[#161b22] border border-[#30363d] hover:border-blue-500 transition-colors text-left"
+            >
+              <Code className="text-blue-500 shrink-0" size={20} />
+              <div>
+                <div className="text-sm font-bold text-white">Coding + DSA</div>
+                <div className="text-xs text-[#8b949e]">Python, arrays, algorithms — 30 min/day</div>
+              </div>
+            </button>
+            <button
+              onClick={() => createProfile('aptitude-reasoning')}
+              className="w-full flex items-center gap-3 p-4 rounded-lg bg-[#161b22] border border-[#30363d] hover:border-blue-500 transition-colors text-left"
+            >
+              <BookOpen className="text-blue-500 shrink-0" size={20} />
+              <div>
+                <div className="text-sm font-bold text-white">Aptitude + Reasoning</div>
+                <div className="text-xs text-[#8b949e]">Percentages, ratios, logic — 30 min/day</div>
+              </div>
+            </button>
+            <button
+              onClick={() => createProfile('full')}
+              className="w-full flex items-center gap-3 p-4 rounded-lg bg-[#161b22] border border-[#30363d] hover:border-blue-500 transition-colors text-left"
+            >
+              <Layout className="text-blue-500 shrink-0" size={20} />
+              <div>
+                <div className="text-sm font-bold text-white">Full Mode</div>
+                <div className="text-xs text-[#8b949e]">Both tracks combined — 60 min/day</div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className={`flex h-screen bg-[#0d1117] text-[#c9d1d9] overflow-hidden font-mono text-sm ${resizing ? 'select-none' : ''}`}>
