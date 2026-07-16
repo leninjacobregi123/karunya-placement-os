@@ -10,8 +10,5 @@ def count_eligible(scores, cutoff):
     Returns:
         int: count of eligible scores
     """
-    count = 0
-    for score in scores:
-        if score >= cutoff:
-            count += 1
-    return count
+    # TODO: Implement this function
+    pass

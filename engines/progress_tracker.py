@@ -460,9 +460,9 @@ def summarize_progress() -> dict:
         badges.append("First Aptitude Day Completed")
     if total_done >= 7:
         badges.append("Week One Complete")
-    if total_done >= 15:
+    if total_done >= 5:
         badges.append("Halfway Hero")
-    if total_done >= 30:
+    if total_done >= 10:
         badges.append("Sprint Champion")
     if streak >= 3:
         badges.append(f"{streak}-Day Streak")

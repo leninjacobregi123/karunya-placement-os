@@ -30,7 +30,7 @@ def compute_confidence(progress):
     avg_score = sum(scores.values()) / max(1, len(scores))
     
     # Confidence is weighted by: coverage (40%) + average score (60%)
-    coverage = min(100, days_completed / 60 * 100)
+    coverage = min(100, days_completed / 10 * 100)
     score_weighted = avg_score / 10 * 60
     confidence = min(100, int(coverage * 0.4 + score_weighted))
     
@@ -83,7 +83,7 @@ def main():
     confidence = compute_confidence(progress)
     
     # Print progress
-    print(f"Days Completed:        {coverage}/60")
+    print(f"Days Completed:        {coverage}/10")
     print(f"Average Score:         {avg_score:.1f}/10")
     print(f"Confidence Level:      {confidence}/100")
     print(f"Weak Topics:           {weak_topics[:3] if weak_topics else 'None'}")
