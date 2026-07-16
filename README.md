@@ -4,14 +4,23 @@ A local-first, AI-assisted placement preparation system for final-year students 
 
 ## Quick Start
 
+### Option A: Local CLI (Claude Code)
 ```bash
-git clone <repo-url>
+git clone https://github.com/leninjacobregi123/karunya-placement-os.git
 cd karunya-placement-os
 claude          # or codex
 /start coding   # or /start aptitude, /start full
 ```
 
-That's it. Claude Code handles everything: setup, grading, hints, progress.
+### Option B: Docker (GPU-Enabled Web UI)
+Ensure you have Docker and NVIDIA Container Toolkit installed/configured.
+```bash
+git clone https://github.com/leninjacobregi123/karunya-placement-os.git
+cd karunya-placement-os
+docker compose up -d
+```
+This will start Ollama, download the `llama3.2:latest` & `mxbai-embed-large:latest` models, and spin up the Next.js Web UI at `http://localhost:3000`. Progress is stored in a Docker volume `kpos_progress`.
+
 
 ## What You Get
 
