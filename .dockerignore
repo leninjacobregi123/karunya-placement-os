@@ -1,0 +1,20 @@
+# Never ship host-installed deps/build output into the image —
+# npm ci in the Dockerfile builds these fresh, and a locally-installed
+# copy from a different OS/architecture will break native bindings.
+node_modules
+ui/node_modules
+.next
+ui/.next
+
+.git
+.github
+
+# Student-specific / generated data — should not be baked into the image
+students/
+.kpos/
+*.log
+*.pyc
+__pycache__/
+
+# Editor/OS cruft
+.DS_Store

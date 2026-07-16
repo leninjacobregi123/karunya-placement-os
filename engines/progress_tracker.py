@@ -40,13 +40,27 @@ def _save_auto_progress(data: dict) -> None:
     Path(AUTO_SAVE_FILE).write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
-def create_auto_profile(selected_path: str = "coding") -> dict:
+def _normalize_selected_path(path: str) -> str:
+    """Map any path alias (coding, coding_dsa, coding-dsa, ...) to the canonical
+    slug used by config/roadmap-*.json and the web UI (coding-dsa /
+    aptitude-reasoning / full)."""
+    path = (path or "").lower()
+    if "full" in path:
+        return "full"
+    if "aptitude" in path:
+        return "aptitude-reasoning"
+    if "coding" in path:
+        return "coding-dsa"
+    return path
+
+
+def create_auto_profile(selected_path: str = "coding-dsa") -> dict:
     """Create a new auto-save profile (called by /start)."""
     _ensure_kpos_dir()
     profile = {
         "student_id": "local-student",
         "name": "",
-        "selected_path": selected_path,
+        "selected_path": _normalize_selected_path(selected_path),
         "current_day": 1,
         "days_completed_coding": [],
         "days_completed_aptitude": [],
@@ -104,7 +118,7 @@ def score_day_auto(path: str, day: int, score: int, total: int = 5) -> None:
     """Record a score for an auto-saved day."""
     progress = _load_auto_progress()
     if not progress:
-        progress = create_auto_profile("coding")
+        progress = create_auto_profile("coding-dsa")
     key = f"{day}-" + path.split("_")[0] if "_" in path else path
     progress.setdefault("scores", {})[key] = {
         "path": path,
